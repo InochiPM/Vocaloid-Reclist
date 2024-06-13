@@ -1,0 +1,9 @@
+S0101	あ
+S0102	い
+S0103	う
+S0104	え
+S0105	お
+S0106	ん
+S0107	m sil my
+S0108	n sil ny
+S0109	ng sil ng'
