@@ -1,0 +1,1465 @@
+s0001	bet
+s0002	bat
+s0003	bit
+s0004	book
+s0005	bot
+s0006	but
+s0007	beat
+s0008	boot
+s0009	ball
+s0010	bird
+s0011	bake
+s0012	bike
+s0013	boy
+s0014	boat
+s0015	bout
+s0016	leer
+s0017	lair
+s0018	lure
+s0019	lore
+s0020	lark
+s0021	land
+s0022	hmm
+s0023	hnn
+s0024	hng
+s0025	rhythm
+s0026	able
+a0001	oh yeah
+a0002	mouth off
+a0003	bathe oops
+a0004	bathe all
+a0005	bathe oil
+a0006	bathe ear
+a0007	bathe or
+a0008	bathe are
+a0009	booth oops
+a0010	booth oil
+a0011	booth oak
+a0012	booth air
+a0013	booth ark
+a0014	now oil
+a0015	hunting
+a0016	the hunt
+a0017	boo boo
+a0018	poof spoon
+a0019	too stoop
+a0020	my shoes
+a0021	his mood
+a0022	the noose
+a0023	the clue
+a0024	skidoo
+a0025	say yes
+a0026	ew gross
+a0027	beige end
+a0028	beige at
+a0029	angel
+a0030	beige up
+a0031	beige eat
+a0032	beige oops
+a0033	beige eight
+a0034	beige ice
+a0035	beige oil
+a0036	beige oak
+a0037	beige out
+a0038	beige ear
+a0039	beige air
+a0040	beige or
+a0041	beige are
+a0042	wash oil
+a0043	sing oops
+a0044	sing earth
+a0045	sing oil
+a0046	sing ear
+a0047	sing air
+a0048	sing or
+a0049	forearm
+a0050	lab ears
+a0051	a deer
+a0052	a dare
+a0053	some guy
+a0054	gargoyle
+a0055	leg ear
+a0056	leg air
+a0057	leg or
+a0058	leg are
+a0059	two ears
+a0060	you go
+a0061	you choose
+a0062	raw egg
+a0063	saw axe
+a0064	saw it
+a0065	saw up
+a0066	raw eel
+a0067	saw oops
+a0068	saw all
+a0069	saw earth
+a0070	saw apes
+a0071	saw ice
+a0072	raw oats
+a0073	saw out
+a0074	saw ear
+a0075	saw air
+a0076	saw or
+a0077	saw arm
+a0078	saw him
+a0079	law west
+a0080	law yes
+a0081	saw book
+a0082	saw dad
+a0083	saw golf
+a0084	saw call
+a0085	law law
+a0086	law paw
+a0087	law doll
+a0088	law talk
+a0089	law jaw
+a0090	law chalk
+a0091	law vault
+a0092	saw them
+a0093	saw thaw
+a0094	saw shawl
+a0095	her end
+a0096	her act
+a0097	her off
+a0098	her room
+a0099	her all
+a0100	her earth
+a0101	her ace
+a0102	her eyes
+a0103	her oil
+a0104	her ear
+a0105	her air
+a0106	her ore
+a0107	her arm
+a0108	her girl
+a0109	curb earth
+a0110	burp earth
+a0111	say end
+a0112	stay at
+a0113	stay off
+a0114	way east
+a0115	way ooze
+a0116	may all
+a0117	mayor
+a0118	may ace
+a0119	may oil
+a0120	stay out
+a0121	say ear
+a0122	say air
+a0123	say ore
+a0124	say are
+a0125	say cheese
+a0126	cry on
+a0127	try east
+a0128	dry ooze
+a0129	dry all
+a0130	try eight
+a0131	dry oil
+a0132	dry oats
+a0133	dry air
+a0134	dry ore
+a0135	toy end
+a0136	toy at
+a0137	toy on
+a0138	joyous
+a0139	toy up
+a0140	toy east
+a0141	toy ooze
+a0142	toy all
+a0143	toy earth
+a0144	toy ace
+a0145	toy ice
+a0146	toy oil
+a0147	toy own
+a0148	toy out
+a0149	toy ear
+a0150	toy air
+a0151	toy oar
+a0152	toy arm
+a0153	toy heart
+a0154	toe end
+a0155	go east
+a0156	toe ooze
+a0157	know all
+a0158	show eight
+a0159	no ice
+a0160	no oats
+a0161	no oil
+a0162	no ears
+a0163	no air
+a0164	no arms
+a0165	no oars
+a0166	cow egg
+a0167	now at
+a0168	now in
+a0169	now on
+a0170	now east
+a0171	now ooze
+a0172	now all
+a0173	now ace
+a0174	now oil
+a0175	now own
+a0176	now out
+a0177	now ear
+a0178	now air
+a0179	now oar
+a0180	now you
+a0181	now fight
+a0182	deer end
+a0183	deer at
+a0184	deer on
+a0185	deer eat
+a0186	ear ooze
+a0187	dear all
+a0188	dear earth
+a0189	ear ache
+a0190	deer eye
+a0191	ear oil
+a0192	deer out
+a0193	deer ear
+a0194	dear air
+a0195	deer or
+a0196	deer are
+a0197	hair end
+a0198	air off
+a0199	air up
+a0200	hair ooze
+a0201	air all
+a0202	air earth
+a0203	air eye
+a0204	air ace
+a0205	air oil
+a0206	air oat
+a0207	air out
+a0208	air ear
+a0209	air air
+a0210	air or
+a0211	air arm
+a0212	pure end
+a0213	pure act
+a0214	cure it
+a0215	cure all
+a0216	cure on
+a0217	pure of
+a0218	pure east
+a0219	pure ooze
+a0220	pure earth
+a0221	cure eight
+a0222	pure ice
+a0223	pure oil
+a0224	pure oats
+a0225	cure ears
+a0226	pure air
+a0227	cure arms
+a0228	pure ore
+a0229	pure joy
+a0230	pure force
+a0231	pure thoughts
+a0232	pure shock
+a0233	pure luck
+a0234	core act
+a0235	tore off
+a0236	four east
+a0237	four ooze
+a0238	tore all
+a0239	four earn
+a0240	tore eight
+a0241	core oil
+a0242	four oats
+a0243	tore out
+a0244	more air
+a0245	four oars
+a0246	four arms
+a0247	more gas
+a0248	far end
+a0249	star act
+a0250	star it
+a0251	far east
+a0252	star ooze
+a0253	star all
+a0254	star earth
+a0255	star ace
+a0256	star ice
+a0257	tar oil
+a0258	star own
+a0259	far out
+a0260	far ear
+a0261	far air
+a0262	far ore
+a0263	far arm
+a0264	glass door
+a0265	less gas
+a0266	team shirts
+a0267	wrong turn
+a0268	wrong choice
+a0269	song verse
+a0270	king sheets
+a0271	long range
+a0272	ball gown
+a0273	white milk
+a0274	small things
+a0275	tall lamp
+a0276	bad dog
+a0277	trash bag
+a0278	trash dump
+a0279	washdown
+a0280	ash tray
+a0281	ash gray
+a0282	cash loan
+a0283	cash jar
+a0284	cash checks
+a0285	cash flow
+a0286	fresh squash
+a0287	fresh shrimp
+a0288	those two
+a0289	she's thin
+a0290	his shoe
+a0291	his lip
+a0292	birthday
+a0293	bath time
+a0294	math test
+a0295	math game
+a0296	math quiz
+a0297	math book
+a0298	math chart
+a0299	catch rate
+a0300	math facts
+a0301	math zone
+a0302	smooth wall
+a0303	smooth brick
+a0304	smooth talk
+a0305	smooth taste
+a0306	smooth girl
+a0307	smooth legs
+a0308	smooth lips
+a0309	smooth jazz
+a0310	smooth cheese
+a0311	smooth voice
+a0312	smooth face
+a0313	off white
+a0314	off beat
+a0315	off pitch
+a0316	off guard
+a0317	chiefdom
+a0318	Afghan
+a0319	the fifth
+a0320	off zone
+a0321	offshore
+a0322	half note
+a0323	smooth shave
+a0324	smooth zoom
+a0325	smooth thing
+a0326	smooth road
+a0327	give voice
+a0328	give thanks
+a0329	match box
+a0330	match point
+a0331	match game
+a0332	sketch club
+a0333	match light
+a0334	watchdog
+a0335	it hatched
+a0336	watch chain
+a0337	porch vase
+a0338	which font
+a0339	which thing
+a0340	which zoo
+a0341	match stick
+a0342	which shoe
+a0343	which knee
+a0344	which leg
+a0345	bridgework
+a0346	Judge Bill
+a0347	judge group
+a0348	fudge cake
+a0349	ridge line
+a0350	bridge line
+a0351	bridge chart
+a0352	fudge theme
+a0353	bridge zone
+a0354	fudge sauce
+a0355	fudge shop
+a0356	judgement
+a0357	fudge nut
+a0358	black pen
+a0359	chalkboard
+a0360	stockpile
+a0361	weekday
+a0362	bookvault
+a0363	black thorn
+a0364	black zone
+a0365	hook nose
+a0366	backlash
+a0367	big head
+a0368	eggplant
+a0369	pig pen
+a0370	big dog
+a0371	hogtie
+a0372	pig tail
+a0373	big goat
+a0374	tugboat
+a0375	big chair
+a0376	big vault
+a0377	bigfoot
+a0378	big things
+a0379	bag them
+a0380	big shot
+a0381	big star
+a0382	burglar
+a0383	dirtbag
+a0384	potpie
+a0385	outdoors
+a0386	outkeep
+a0387	outvoice
+a0388	hot zone
+a0389	sleepwalk
+a0390	top board
+a0391	top gear
+a0392	top left
+a0393	lapdog
+a0394	cupcake
+a0395	flapjack
+a0396	stepchild
+a0397	rap verse
+a0398	tip zone
+a0399	clipsheet
+a0400	chipmunk
+a0401	sharpness
+a0402	cobweb
+a0403	rib bone
+a0404	rib cage
+a0405	subdue
+a0406	subpar
+a0407	bobtail
+a0408	bobcat
+a0409	job test
+a0410	job growth
+a0411	job lot
+a0412	rib joint
+a0413	job chart
+a0414	subframe
+a0415	subtheme
+a0416	subshaft
+a0417	submit
+a0418	subnet
+a0419	in beige
+a0420	mirage
+a0421	beige wall
+a0422	beige yarn
+a0423	beige book
+a0424	beige paint
+a0425	beige dress
+a0426	beige dog
+a0427	beige top
+a0428	beige tights
+a0429	beige glass
+a0430	beige coat
+a0431	beige jeans
+a0432	beige chair
+a0433	beige vest
+a0434	beige flats
+a0435	beige things
+a0436	beige suit
+a0437	beige shoes
+a0438	beige robe
+a0439	uh-oh
+a0440	network
+a0441	footnote
+a0442	boot barn
+a0443	hotshot
+a0444	best voice
+a0445	best ball
+a0446	courtroom
+a0447	but now
+a0448	into
+a0449	easy
+a0450	oozing
+a0451	although
+a0452	earthly
+a0453	able
+a0454	oyster
+a0455	outlook
+a0456	earring
+a0457	airport
+a0458	orbit
+a0459	armband
+a0460	beige and
+a0461	the crab
+a0462	my bag
+a0463	some jazz
+a0464	oh yeah
+a0465	liar
+a0466	player
+a0467	a pa(t)
+a0468	be our guest
+a0469	out of gas
+a0470	now be good
+a0471	and you're gone
+a0472	know thyself
+a0473	tie your shoes
+a0474	scream and shout
+a0475	watch your mouth
+a0476	on the beach
+a0477	on the ear
+a0478	up to you
+a0479	you owe me
+a0480	new outfit
+a0481	new era
+a0482	you or me
+a0483	knew about
+a0484	law about
+a0485	law genre
+a0486	did I now
+a0487	we're down here
+a0488	say again
+a0489	say about
+a0490	say your prayers
+a0491	a gray goose
+a0492	Sailor Moon
+a0493	a long cape
+a0494	stay right here
+a0495	tribal dance
+a0496	I choose you
+a0497	try three out
+a0498	my genre
+a0499	the boy yawned
+a0500	a toy gun
+a0501	a toy cat
+a0502	In Detroit
+a0503	the boy jumped
+a0504	the boy cheered
+a0505	a toy van
+a0506	th boy thought
+a0507	toy genre
+a0508	a toy shark
+a0509	a toy mouse
+a0510	a toy rat
+a0511	avoider
+a0512	know about
+a0513	in the vogue
+a0514	It's no joke
+a0515	how about
+a0516	cow vandal
+a0517	how genre
+a0518	deer among
+a0519	here today
+a0520	deer crossing
+a0521	we're leaving
+a0522	ear piercing
+a0523	ear tattoo
+a0524	deer jerky
+a0525	my deer child
+a0526	deer valley
+a0527	ear throbbing
+a0528	ear genre
+a0529	my earlobe
+a0530	I dare you
+a0531	fair weather
+a0532	blue hair dye
+a0533	her caregiver
+a0534	fast hair growth
+a0535	the fair booth
+a0536	hair products
+a0537	a fair trade
+a0538	Air Jordan
+a0539	a fair chance
+a0540	hair volume
+a0541	the air force
+a0542	hair that cares
+a0543	hair thinner
+a0544	hair genre
+a0545	your fair share
+a0546	air mattress
+a0547	her hair net
+a0548	an airlift
+a0549	we shared earth
+a0550	pure about
+a0551	pure protein
+a0552	pure diesel
+a0553	cure cancer
+a0554	pure chocolate
+a0555	cure sore throat
+a0556	pure genre
+a0557	four among
+a0558	more cowbell
+a0559	for venus
+a0560	four genres
+a0561	the moral
+a0562	far again
+a0563	star tattoo
+a0564	the far left
+a0565	rhubarb pie
+a0566	woodcarver
+a0567	a pink scarf
+a0568	Darth Vader
+a0569	the far south
+a0570	star genre
+a0571	in the marsh
+a0572	my name's Carl
+a0573	Linda Brown
+a0574	the genre
+a0575	Donna Sharp
+a0576	glass zebra
+a0577	glass genre
+a0578	less shampoo
+a0579	glass repair
+a0580	run back home
+a0581	fun card game
+a0582	fun genre
+a0583	home goods store
+a0584	team challenge
+a0585	home value
+a0586	home genre
+a0587	team line up
+a0588	wrong planet
+a0589	lung disease
+a0590	wrongdoing
+a0591	a long text
+a0592	sing for joy
+a0593	song genre
+a0594	wrong number
+a0595	wrong lever
+a0596	small genre
+a0597	fresh water
+a0598	math worksheet
+a0599	bad credit
+a0600	cash value
+a0601	wash thinner
+a0602	fresh genre
+a0603	dish network
+a0604	he's been good
+a0605	he's vanished
+a0606	his zipper
+a0607	his genre
+a0608	bath products
+a0609	bath design
+a0610	math lecture
+a0611	math theory
+a0612	math genre
+a0613	bath shower
+a0614	smooth yogurt
+a0615	smooth paper
+a0616	smooth dancer
+a0617	smooth the path
+a0618	off duty
+a0619	off center
+a0620	off genre
+a0621	smooth genre
+a0622	smooth sailing
+a0623	of darkness
+a0624	of genre
+a0625	give shelter
+a0626	churchgoer
+a0627	sketch journal
+a0628	which genre
+a0629	judge yourself
+a0630	bridge design
+a0631	judge table
+a0632	Judge Judy
+a0633	bridge valley
+a0634	bridge genre
+a0635	big genre
+a0636	hit genre
+a0637	top genre
+a0638	cab driver
+a0639	subgenre
+a0640	beige zip up
+a0641	beige genre
+a0642	beige marble
+a0643	beige necklace
+a0644	beige then white
+a0645	it oozed out
+a0646	not for long
+a0647	best cookbook
+a0648	avenue
+a0649	end of the world
+a0650	after sunset
+a0651	if I die young
+a0652	all of our flaws
+a0653	earth and saturn
+a0654	oink goes the pig
+a0655	air in my lungs
+a0656	or you can leave
+a0657	what do you want
+a0658	baby don't leave
+a0659	take me away
+a0660	kiss me goodbye
+a0661	let there be light
+a0662	Valentine's day
+a0663	thanks for nothing
+a0664	zebras are nice
+a0665	shut up and drive
+a0666	meet my parents
+a0667	green eggs and ham
+a0668	sketch a figure
+a0669	the very best
+a0670	mid-life crisis
+a0671	they both sat down
+a0672	jaguar warrior
+a0673	badge of honor
+a0674	have a good day
+a0675	lather your hands
+a0676	azure blue sky
+a0677	I am legend
+a0678	figure it out
+a0679	macaroni
+a0680	bridge to nowhere
+a0681	ditch the zero
+a0682	the mythbusters
+a0683	is it okay
+a0684	pay the butcher
+a0685	the horse's hooves
+a0686	it's puss-in-boots
+a0687	trim the bushes
+a0688	pretty woman
+a0689	music genre
+a0690	movie genre
+a0691	a persian rug
+a0692	wish me good luck
+a0693	the door won't budge
+a0694	mother Mary
+a0695	the genre type
+a0696	the hunting lodge
+a0697	the watchtower
+a0698	don't bother me
+a0699	colorful cloth
+a0700	to woo a man
+a0701	drink some water
+a0702	foxes go yip
+a0703	binoculars
+a0704	ferment the yeast
+a0705	yikes that sounds bad
+a0706	he yoinked the key
+a0707	it's you're not your
+a0708	buy me a beer
+a0709	watch out for bears
+a0710	a pack of wolves
+a0711	a kick and punch
+a0712	dragon tattoo
+a0713	a debit card
+a0714	a white lab rat
+a0715	a pink ribbon
+a0716	bop to the top
+a0717	apologize
+a0718	my apple pie
+a0719	and what's your point
+a0720	stop poking me
+a0721	better not pout
+a0722	an ear piercing
+a0723	sail into port
+a0724	a light weapon
+a0725	I'll check the map
+a0726	whoopie cushion
+a0727	top of the world
+a0728	potato chips
+a0729	a small doll house
+a0730	by Patrick Doyle
+a0731	I will endure
+a0732	he fed the dogs
+a0733	a turtle shell
+a0734	he tore it up
+a0735	as black as tar
+a0736	a dark tunnel
+a0737	a stupid bet
+a0738	covered with soot
+a0739	two days from now
+a0740	a single goose
+a0741	some boys and girls
+a0742	but he's a guy
+a0743	a stone gargoyle
+a0744	a sleeping gown
+a0745	what grinds my gears
+a0746	pumpkins are gourds
+a0747	the chicken coop
+a0748	go fly a kite
+a0749	a koi fish pond
+a0750	a dull-edged blade
+a0751	the cow goes moo
+a0752	hip surgery
+a0753	hollow inside
+a0754	her only hope
+a0755	high in the sky
+a0756	hoist up the flag
+a0757	hope for the best
+a0758	horses and cows
+a0759	hark the herald
+a0760	by the heater
+a0761	jump through the hoop
+a0762	run down the hall
+a0763	in the haystack
+a0764	look behind you
+a0765	can you hear that
+a0766	hey there who're you
+a0767	breaking the law
+a0768	but you're too late
+a0769	his name is Lloyd
+a0770	an evil lair
+a0771	a fishing lure
+a0772	a large order
+a0773	coca cola
+a0774	a hidden gun
+a0775	some eggs and toast
+a0776	some saggy pants
+a0777	a big mistake
+a0778	sugar and spice
+a0779	a foggy night
+a0780	a speck of dust
+a0781	a spoon and fork
+a0782	the ace of spades
+a0783	spoiler alert
+a0784	frogs go ribbit
+a0785	just remember
+a0786	ebay dot com
+a0787	dab oil lightly
+a0788	how about that
+a0789	he stood up quick
+a0790	he spoke gently
+a0791	handle and spout
+a0792	an old spare tire
+a0793	some mushroom spores
+a0794	it's a steep cliff
+a0795	but it's just oil
+a0796	a short stout man
+a0797	a steering wheel
+a0798	spiral staircase
+a0799	cable TV
+a0800	an icecream scoop
+a0801	some raw oysters
+a0802	full of black oil
+a0803	an angry scowl
+a0804	two long black ears
+a0805	barrel of gin
+a0806	a chiseled jaw
+a0807	jumping with joy
+a0808	a mocking jeer
+a0809	keep your dog leashed
+a0810	good day old chap
+a0811	it's a satchel
+a0812	clean the chalkboard
+a0813	excellent choice
+a0814	but he chose it
+a0815	she cheered him up
+a0816	finish your chores
+a0817	a suggestion
+a0818	a voodoo doll
+a0819	some nail varnish
+a0820	to veer away
+a0821	wrapped in tinfoil
+a0822	answer the phone
+a0823	the lost and found
+a0824	so far away
+a0825	the alphabet
+a0826	turn left then right
+a0827	go borrow one
+a0828	you're way too thin
+a0829	just one last thought
+a0830	let the ice thaw
+a0831	he's in third place
+a0832	them thunder thighs
+a0833	seven thousand
+a0834	it's big Bertha
+a0835	it's Led Zeppelin
+a0836	and as always
+a0837	realization
+a0838	is oil okay
+a0839	as air rises
+a0840	eggs or bacon
+a0841	eat some soup dear
+a0842	add some soy sauce
+a0843	some seared tuna
+a0844	my arm is sore
+a0845	a clear glass arm
+a0846	at your leisure
+a0847	window shopping
+a0848	she wore her shawl
+a0849	some iron shears
+a0850	you need to share
+a0851	walk on the shore
+a0852	that's not normal
+a0853	try some palm oil
+a0854	venus and mars
+a0855	don't gnaw on that
+a0856	so annoying
+a0857	it's anarchy
+a0858	it's the wrong end
+a0859	bowling alley
+a0860	but he sang on
+a0861	sing all the songs
+a0862	the song ain't done
+a0863	the thing I like
+a0864	the wrong oak tree
+a0865	he sang out loud
+a0866	sing about love
+a0867	a lullaby
+a0868	that's one mean glare
+a0869	an alarm clock
+a0870	baseball rookie
+a0871	admirers
+a0872	go guard the rear
+a0873	now hear me roar
+a0874	strawberry red
+a0875	the handlebars
+a0876	tie-dye a shirt
+a0877	a bad oil spill
+a0878	we all fall down
+a0879	rug on the floor
+a0880	dug up the lawn
+a0881	a bit buggy
+a0882	the blue lagoon
+a0883	sit there and gawk
+a0884	reggae music
+a0885	it's a dead end
+a0886	how I wonder
+a0887	hue of color
+a0888	watch doctor who
+a0889	you're beautiful
+a0890	Her name is Gwen
+a0891	fifteen dollars
+a0892	I can see you
+a0893	it's G.I. Joe
+a0894	some sea oysters
+a0895	it's me or him
+a0896	we are ready
+a0897	it's the new end
+a0898	you on the stairs
+a0899	watch what you eat
+a0900	forget you all
+a0901	but you earned it
+a0902	who ate the cheese
+a0903	eat two oysters
+a0904	right in the jaw
+a0905	in the garden
+a0906	put it on pause
+a0907	just come with me
+a0908	goddess of love
+a0909	of poor merit
+a0910	aw poor pluto
+a0911	Luke Skywalker
+a0912	I've never seen
+a0913	my two front teeth
+a0914	I'm envious
+a0915	hair like gold thread
+a0916	it's too far down
+a0917	you'll never win
+a0918	far beyond here
+a0919	they're before us
+a0920	Dave the intern
+a0921	a little vague
+a0922	have faith in me
+a0923	some beige leggings
+a0924	poke your eye out
+a0925	a small tiger
+a0926	a little boy
+a0927	the boy was blonde
+a0928	a blue toy boat
+a0929	the boy pouted
+a0930	the boy took it
+a0931	the boy counted
+a0932	the boy then sang
+a0933	have you no heart
+a0934	no dogs allowed
+a0935	have some closure
+a0936	how do you do
+a0937	learn how to dance
+a0938	gouge out my eyes
+a0939	sleep on the couch
+a0940	now show the way
+a0941	deer have antlers
+a0942	I can't hear you
+a0943	here before you
+a0944	within earshot
+a0945	ear nose and throat
+a0946	it gets weirder
+a0947	pure vanilla
+a0948	are horses real
+a0949	banana end
+a0950	banana it
+a0951	banana at
+a0952	banana on
+a0953	banana up
+a0954	banana eat
+a0955	banana ooze
+a0956	banana all
+a0957	banana earth
+a0958	banana ice
+a0959	banana oil
+a0960	banana oat
+a0961	banana out
+a0962	banana ear
+a0963	banana air
+a0964	banana ore
+a0965	banana are
+a0966	banana up
+a0967	banana hut
+a0968	diagnosis
+a0969	the other one
+a0970	melancholy
+a0971	enough manpower
+a0972	it's a fun game
+a0973	a fun night out
+a0974	fresh cranberry
+a0975	bad to the bone
+a0976	wash the dishes
+a0977	fresh zucchini
+a0978	jazz piano
+a0979	smooth criminal
+a0980	half japanese
+a0981	give to the poor
+a0982	give charity
+a0983	it's Vladimir
+a0984	rub the wrong way
+a0985	I'm mad at you
+a0986	it ate the food
+a0987	just keep swimming
+a0988	just between friends
+a0989	just passing through
+a0990	best joke ever
+a0991	exploit money
+a0992	double whammy
+a0993	a summer tan
+a0994	it's a gamble
+a0995	a safe landing
+a0996	I'm a huge fan
+a0997	sing an old song
+a0998	it's you and me
+a0999	it's ma and pa
+a1000	all day and night
+a1001	a boy and girl
+a1002	go and study
+a1003	cow and chicken
+a1004	both near and far
+a1005	you're an angel
+a1006	three four and five
+a1007	far and beyond
+a1008	Sarah and Bob
+a1009	over the rainbow
+a1010	how are you today
+a1011	you are my sunshine
+a1012	genre of music
+a1013	radioactive
+a1014	above and beyond
+a1015	you look fabulous
+a1016	stay in bed today
+a1017	on the brink of death
+a1018	mister president
+a1019	mesh it together
+a1020	the last unicorn
+a1021	ashes to ashes
+a1022	my vision is fine
+a1023	go out on a limb
+a1024	Gunter the penguin
+a1025	the dog keeps barking
+a1026	we were ushered in
+a1027	a novel idea
+a1028	the dog wagged its tail
+a1029	wow what a great job
+a1030	yay how wonderful
+a1031	play with the yo-yo
+a1032	as tall as Yao Ming
+a1033	the bird is the word
+a1034	one of my hobbies
+a1035	you will pay someday
+a1036	how polite of you
+a1037	do you like dubstep
+a1038	rolling in the deep
+a1039	let's play truth or dare
+a1040	check yourself for ticks
+a1041	a tiny toy dog
+a1042	a tear in my eyes
+a1043	I don't care at all
+a1044	hot and freshly made
+a1045	here we go again
+a1046	he hoisted it up
+a1047	I found a loophole
+a1048	how low can you go
+a1049	the lord of the rings
+a1050	whisper in your ear
+a1051	a scary movie
+a1052	a scar on his cheek
+a1053	he went to Jared
+a1054	the wizard of Oz
+a1055	a Christmas Carol
+a1056	a Chinese jade vase
+a1057	don't play with your food
+a1058	what are they doing
+a1059	holier than thou
+a1060	is the bath empty
+a1061	who let the dogs out
+a1062	make the most of it
+a1063	the end of the road
+a1064	take of to the moon
+a1065	it's so obvious
+a1066	the way I'm feeling
+a1067	you're out of this world
+a1068	the way people are
+a1069	how can you say that
+a1070	pure titanium
+a1071	banana yellow
+a1072	oops I did it again
+a1073	it would be my pleasure
+a1074	I call dibs on shotgun
+a1075	put your foot in your mouth
+a1076	head shoulders knees and toes
+a1077	let's move to Florida
+a1078	it's tearing us apart
+a1079	I am not a robot
+a1080	let the jury decide
+a1081	you better leave or else
+a1082	every nook and cranny
+a1083	do I look like I care
+a1084	dolphins are porpoises
+a1085	augmenʔ damn ʔaddress
+a1086	during yesterday culʔ
+a1087	allure ʔa pan
+a1088	behalf charcoal alarm
+a1089	aha ouʔgoing each
+a1090	aha a eighth(ʔ)
+a1091	behalf via depth
+a1092	lookouʔ chihuahua i
+a1093	biennial ʔaudition galore
+a1094	the alarming beyond
+a1095	woodworking mature gourmet
+a1096	iʔ share ʔi
+a1097	aʔ to bosom
+a1098	with noʔ so
+a1099	thaʔ zoo rhythmic
+a1100	here ʔuh are
+a1101	yeah ouʔ dudes
+a1102	ah arʔ tuition
+a1103	long alarms
+a1104	uh eh of
+a1105	ma in
+a1106	ha or
+a1107	huh awe you
+a1108	ʔeh on
+a1109	yeah is
+a1110	ah as
+a1111	uh and
+a1112	eh at
+a1113	ma all
+a1114	ha up
+a1115	huh an
+a1116	ʔuh out
+a1117	ʔeh he
+a1118	yeah who
+a1119	ah an
+a1120	uh oh
+a1121	eh we
+a1122	ma air
+a1123	ha own
+a1124	huh off
+a1125	ʔuh eye
+a1126	ʔeh our
+a1127	yeah us
+a1128	uh am
+a1129	eh over
+a1130	ma age
+a1131	ha eat
+a1132	huh oil
+a1133	ʔuh ear
+a1134	ʔeh art
+a1135	yeah eyes
+a1136	ah earth
+a1137	uh eight
+a1138	eh ice
+a1139	ma ooh
+a1140	ha ears
+a1141	huh eaʔ
+a1142	ʔuh order
+a1143	ʔeh also
+a1144	yeah old
+a1145	ah oy
+a1146	uh early
+a1147	eh eighʔ
+a1148	huh heir
+a1149	ʔuh outta
+a1150	ʔeh ore
+a1151	yeah about
+a1152	uh alarmed
+a1153	eh either
+a1154	ʔeh earn
+a1155	yeah end
+a1156	eh err
+a1157	ʔeh answer
+a1158	yeah aid
+a1159	eh outta
+a1160	ʔeh oils
+a1161	yeah arm
+a1162	eh ear
+a1163	yeah even
+a1164	yeah order
+a1165	yeah around
+a1166	yeah odd
+a1167	yeah often
+a1168	yeah aired
+a1169	yeah anti
+a1170	yeah oops
+a1171	yeah oily
+a1172	yeah earmarked
+a1173	rey por dar error por
+a1174	guerra por rey raid
+a1175	por aun sirve tarde
+a1176	re rey perfil
+a1177	largo río rio
+a1178	porque darle forma
+a1179	carne cuerpo marzo
+a1180	parte marcha ruta
+a1181	ruido red rey ser
+a1182	ir alrededor enrique
+a1183	israelí sur
+a1184	peyote synapse polyurethane
+a1185	so alarm  people a  little over  people
+a1186	able allure  local around  social in
+a1187	level ear  final all  general oil
+a1188	total on  couple of  middle i
+a1189	single out  several any  model air
+a1190	title an  special age  royal each
+a1191	legal outta  table as  federal
+a1192	here alarms  withdrawal  for alarmed
+a1193	loyal  raw alarming  are alarm
+a1194	you're ulterior  trial  towel
+a1195	eh allure  their alarms  betrayal
+a1196	annual  yeah alarmed
+Ta0001	other
+Ta0002	demand
+Ta0003	before
+Ta0004	second
+Ta0005	perfect
+Ta0006	need it
+Ta0007	lady
+Ta0008	disco
+Ta0009	serve it
+Ta0010	weather
+Ta0011	variables interest
+Ta0012	consisted mentally
+Ta0013	numerical minimal
+Ta0014	amenities potential
+Ta0015	against criminal
+Ta0016	actions conferences
+Ta0017	theories also people
+Ta0018	quarantine stated
+Ta0019	accompanying deformed
+Ta0020	years comparing was
+Ta0021	about epitome had
+Ta0022	sometimes hologram
+Ta0023	analysis been than
+Ta0024	experience well
+Ta0025	procedural into
+Ta0026	going because popular
+Ta0027	own market
+Ta0028	image the
+Ta0029	off they
+Ta0030	our with
+Ta0031	death long
+Ta0032	face she
+Ta0033	feel much
+Ta0034	game by
+Ta0035	call be
+Ta0036	could her
+Ta0037	low how
+Ta0038	like he
+Ta0039	most who
+Ta0040	mom more
+Ta0041	march my
+Ta0042	name so
+Ta0043	part moved
+Ta0044	pass we
+Ta0045	record used
+Ta0046	side have
+Ta0047	today
+Ta0048	video
+Ta0049	where
+a1197	angels fearful
+a1198	handled refusal
+a1199	gentleman casualty
+a1200	normal castle
+a1201	lethal celestial
+a1202	familial battleship
+a1203	with alarm
+a1204	people the
+a1205	able he
+a1206	little we
+a1207	usefulness candlelight
+a1208	rouge allure
+a1209	battleground
+a1210	people do
+a1211	able like
+a1212	little per
+a1213	people through
+a1214	able just
+a1215	little chair
+a1216	people very
+a1217	able genre
+Ta0050	findings candidates
+Ta0051	believing selective
+Ta0052	stricken centers
+Ta0053	manifests unison
+Ta0054	relaxed grants
+Ta0055	getting stances
+Ta0056	missing importantly
+Ta0057	didn't elevations
+Ta0058	this sanctity
+Ta0059	not has
+Ta0060	good need
+Ta0061	even commissioned
+Ta0062	range problem
+Ta0063	morning helped
+Ta0064	characters agency
+Ta0065	a
+Ta0066	or
+Ta0067	are
+Ta0068	i
+Ta0069	their
+Ta0070	first
+Ta0071	tell to
+Ta0072	were were
+s0027	apple
+Ta0073	friends undertaking
+Ta0074	wanting plastic
+Ta0075	traveling from
+Ta0076	just don't
+Ta0077	after think
+Ta0078	great press
+Ta0079	member someone
+Ta0080	backed whenever
+Ta0081	itself restart
+Ta0082	extreme playwright
+Ta0083	commonly inspector
+Ta0084	overworked that
+Ta0085	but progesterone
+Ta0086	his will
+Ta0087	what which
+Ta0088	would them
+Ta0089	make him
+Ta0090	then any
+Ta0091	look old
+Ta0092	read sounds
+Ta0093	season avenue
+Ta0094	christian balance
+Ta0095	only
+Ta0096	the
+Ta0097	those
+Ta0098	they
+Ta0099	these
+Ta0100	that
+Ta0101	things
+Ta0102	shh own
+Ta0103	should
+Ta0104	shh each
+Ta0105	through
+Ta0106	every
+Ta0107	our
+Ta0108	easy a
+Ta0109	number
+Ta0110	body
+Ta0111	by
+Ta0112	best
+Ta0113	based
+Ta0114	black
+Ta0115	bring
+Ta0116	add added
+Ta0117	third
+Ta0118	side
+Ta0119	order
+Ta0120	said
+Ta0121	made
+Ta0122	don't do
+Ta0123	does
+Ta0124	day
+Ta0125	drive
+Ta0126	do
+Ta0127	if if
+Ta0128	fit
+Ta0129	for
+Ta0130	fun
+Ta0131	floor
+Ta0132	fact
+Ta0133	give go
+Ta0134	got
+Ta0135	home here
+Ta0136	her
+Ta0137	here
+Ta0138	high
+Ta0139	how
+Ta0140	head
+Ta0141	he
+Ta0142	who
+Ta0143	have
+Ta0144	your you
+Ta0145	you
+Ta0146	ratatouille or
+Ta0147	work
+Ta0148	look
+Ta0149	like
+Ta0150	make
+Ta0151	makes
+Ta0152	king
+Ta0153	come
+Ta0154	case
+Ta0155	clear
+Ta0156	all whole
+Ta0157	all
+Ta0158	while
+Ta0159	feel
+Ta0160	girls
+Ta0161	little
+Ta0162	long
+Ta0163	love
+Ta0164	let
+Ta0165	leave
+Ta0166	last
+Ta0167	i my
+Ta0168	much time
+Ta0169	my same
+Ta0170	me me
+Ta0171	times
+Ta0172	in turn
+Ta0173	ah not
+Ta0174	uh no
+Ta0175	eh no
+Ta0176	know in
+Ta0177	now on
+Ta0178	never line
+Ta0179	an down
+Ta0180	when
+Ta0181	main
+Ta0182	mean
+Ta0183	now
+Ta0184	up top
+Ta0185	up
+Ta0186	types
+Ta0187	a part
+Ta0188	pick
+Ta0189	pop
+Ta0190	pay
+Ta0191	people
+Ta0192	play
+Ta0193	road three
+Ta0194	right
+Ta0195	real
+Ta0196	so service
+Ta0197	since this
+Ta0198	some us
+Ta0199	say
+Ta0200	school
+Ta0201	space
+Ta0202	out court
+Ta0203	at but
+Ta0204	out
+Ta0205	great
+Ta0206	eat
+Ta0207	future
+Ta0208	take
+Ta0209	team
+Ta0210	to
+Ta0211	uh very
+Ta0212	lives
+Ta0213	with way
+Ta0214	water
+Ta0215	way
+Ta0216	we
+Ta0217	is years
+Ta0218	as because
+Ta0219	eyes
+Ta0220	days
+Ta0221	news

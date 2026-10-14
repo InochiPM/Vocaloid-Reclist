@@ -1,0 +1,939 @@
+s0001	da a da
+s0002	da i da
+s0003	da u da
+s0004	da e da
+s0005	da o da
+s0006	da n da
+s0007	n n n
+s0008	ga n ga
+s0009	gi n gi
+s0010	ni n ni
+s0011	ma n ma
+s0012	mi n mi
+a0001	a i de a
+a0002	i chi i n
+a0003	jo u ge
+a0004	e a ko n
+a0005	o i shi i
+a0006	n sha ku ri
+a0007	n da ro u
+a0008	n ko ge cha
+a0009	n ki se n
+a0010	ka ku shu u
+a0011	ki ri sa me
+a0012	ku ra be ru
+a0013	ke tsu da n
+a0014	ko e i ki
+a0015	kya n di
+a0016	kyu u sho ku
+a0017	kyo hi su ru
+a0018	ga ku i e
+a0019	gi za gi za
+a0020	gu n shu ku
+a0021	ge tsu ma tsu
+a0022	go ji u o
+a0023	gya ku te n
+a0024	gyu u ni ku
+a0025	gyo u se ki
+a0026	sa n ba shi
+a0027	shi n go u
+a0028	su ba ya i
+a0029	se n mo n
+a0030	so re yu e
+a0031	za u ru su
+a0032	ji do u sha
+a0033	zu n gu ri
+a0034	ze ro u chi
+a0035	zo o da i
+a0036	ja mu a ki
+a0037	ju u ge ki
+a0038	je i ke i
+a0039	jo gi n gu
+a0040	ta so ga re
+a0041	ti e e ru
+a0042	tu e ru bu
+a0043	te ni mo tsu
+a0044	to mo da chi
+a0045	da re go i
+a0046	di e pu
+a0047	du ru i do
+a0048	de za a to
+a0049	do n gu ri
+a0050	tsa i che n
+a0051	tsi ku ru su
+a0052	tsu ki a i
+a0053	tse tse ba e
+a0054	cha da n su
+a0055	chi ga e ru
+a0056	chu u pu u
+a0057	cho ke i
+a0058	na na ju u
+a0059	ni gi wa i
+a0060	nu ku mo ri
+a0061	ne n re i
+a0062	no ki na mi
+a0063	nyu u gyo o
+a0064	nyo bo sa tsu
+a0065	ha ge ta ka
+a0066	hi tsu ze tsu
+a0067	fu n kyu u
+a0068	he n kyo ku
+a0069	ho n kyo ku
+a0070	hya ku ju u
+a0071	hyo o za n
+a0072	fa ni cha a
+a0073	fi a n se
+a0074	fu zo ro i
+a0075	fe jo a da
+a0076	fo to se ru
+a0077	ba n ki n
+a0078	bi o n ka
+a0079	bu ti ku
+a0080	be i fu tsu
+a0081	bo ku yo o
+a0082	bya ku da n
+a0083	byo o ni n
+a0084	pa a ti i
+a0085	pi n ki i
+a0086	pu di n gu
+a0087	pe ku chi n
+a0088	po di u mu
+a0089	pyo ko n to
+a0090	sha hi i do
+a0091	shu no ha ko
+a0092	she pa a do
+a0093	sho chu u i
+a0094	ma fu yu bi
+a0095	mi di a mu
+a0096	mu ha ba tsu
+a0097	me n e ki
+a0098	mo ti i fu
+a0099	mya o zo ku
+a0100	myu n he n
+a0101	myo o ho o
+a0102	ya ri mi zu
+a0103	yu u he n
+a0104	yo fu ka shi
+a0105	ra n ka ku
+a0106	ri ni ku su
+a0107	ru fu bo n
+a0108	re gi pa n
+a0109	ro bi ra ki
+a0110	rya n me n
+a0111	ryu u hyo o
+a0112	rye n ho o
+a0113	ryo o mi mi
+a0114	wa bi bi to
+a0115	wi za a do
+a0116	we di n gu
+a0117	wo ra n to
+a0118	kye ti ru to
+a0119	gye n ke sa
+a0120	zi ti shu u
+a0121	tso kya ku sha
+a0122	nya di ha na
+a0123	nye du o mo
+a0124	hyu fi gyu a
+a0125	byu pi ya no
+a0126	bye hi ba ku
+a0127	pya n a wa
+a0128	pyu re ha na
+a0129	pye fu mi ba
+a0130	mye mi ha ka
+a0131	ye pi a je
+a0132	n i cho o
+a0133	n u he n
+a0134	n o wa ri
+a0135	n n wa ku
+a0136	n n gya ku
+a0137	n n ku wa
+a0138	ka n ji hi
+a0139	n hi ne tsu
+a0140	n ze tsu gi
+a0141	n ti ru to
+a0142	n tsu ki hi
+a0143	n chi ni chi
+a0144	n na n nyo
+a0145	n fa i to
+a0146	n fi gyu a
+a0147	n bya ku ya
+a0148	n pe ki n
+a0149	n pi za ya
+a0150	n n pyu a
+a0151	n ya nu shi
+a0152	n rya ku shi
+a0153	a ha ha go
+a0154	a pyo ko n
+a0155	kyu u hya ku
+a0156	n tsa a ri
+a0157	hi ga e ri
+a0158	n ja po n
+a0159	n ke ha i
+a0160	e wi ru su
+a0161	n fo to n
+a0162	o ye ro o
+a0163	o pe hyu na
+a0164	sa o ha chi
+a0165	ryo o nya ku
+a0166	n tsi ta a
+a0167	o fi ru mu
+a0168	n fe ri i
+a0169	ji n mya ku
+a0170	ze tsu myo o
+a0171	a pa fyu u mu
+a0172	a nyu u ryo ku
+a0173	n tso na ke n
+a0174	o pya ni i ga
+a0175	a ho o gu chi
+a0176	n nye mo ke n
+a0177	n we e ru zu
+a0178	o rye n ho o
+a0179	ta byo o i n
+a0180	a byu u de n
+a0181	te o ku re
+a0182	a shu te fi
+a0183	se me u ma
+a0184	ni chi fi ru
+a0185	o ta ke bi
+a0186	ti pi ka ru
+a0187	fo o myu ra
+a0188	a n ryu u
+a0189	a ga ri me
+a0190	u ga ji n
+a0191	e ga ta i
+a0192	ma n ga ka
+a0193	da n gi sho
+a0194	ka gu ro i
+a0195	shi gu re ni
+a0196	ryu u gu u
+a0197	u ke gu chi
+a0198	ko gu so ku
+a0199	mo chi ni ge
+a0200	chi ji re ge
+a0201	ni n ge n
+a0202	to shi go ro
+a0203	o su go shi
+a0204	mo to go me
+a0205	wa ka ya gya
+a0206	da i gya ku
+a0207	yo mi tsu gya
+a0208	n fu se gya
+a0209	mi ji ro gya
+a0210	ra n gya ku
+a0211	e wa gyu u
+a0212	ni ku gyu u
+a0213	re gyu ra a
+a0214	to o gyu u
+a0215	do n gyu u
+a0216	a ra gyo o
+a0217	mi gyo o sho
+a0218	ta te gyo ku
+a0219	gyo ro gyo ro
+a0220	shu n gyo o
+a0221	ka za ma chi
+a0222	fu ku za tsu
+a0223	se n za i
+a0224	o ka zu ri
+a0225	no ne zu mi
+a0226	o o zu me
+a0227	ba n zu ke
+a0228	na mi ka ze
+a0229	ga i ze n
+a0230	fu se ze i
+a0231	nyo ze ka n
+a0232	ma sa zo o
+a0233	ri zo o ru
+a0234	fu yu zo ra
+a0235	ka ne zo o
+a0236	mi n zo ku
+a0237	ta ma ja ri
+a0238	su i ja ku
+a0239	wa ru ja re
+a0240	ka ne ja ku
+a0241	ro ja a su
+a0242	n mi su ji
+a0243	ki mu te ji
+a0244	ta i ju u
+a0245	sa ge ju u
+a0246	ko ju u to
+a0247	shi n ju tsu
+a0248	ri je ku to
+a0249	i ma jo o
+a0250	o jo o zu
+a0251	ji jo de n
+a0252	me n jo o
+a0253	u ki da sha
+a0254	tsu re da cha
+a0255	i nu ta de
+a0256	de re de re
+a0257	ra n de su
+a0258	a bu do ra
+a0259	u ra se do
+a0260	mo no do mo
+a0261	ji n do rya
+a0262	hi ko ba e
+a0263	fu shi n bi
+a0264	sa n ri bu
+a0265	to me bu ro
+a0266	su ko bu ru
+a0267	ba n bu tsu
+a0268	shi be to ro
+a0269	go mu be ra
+a0270	sa ke be yo
+a0271	a be ko be
+a0272	ne n be tsu
+a0273	so u mo ku u ri
+a0274	go shi bo ma
+a0275	u me bo ri
+a0276	bo n bo ri
+a0277	i na ra bya
+a0278	ka i bya ku
+a0279	n mu se bya
+a0280	n shi no bya
+a0281	pu re byu a
+a0282	ta i byo u
+a0283	te byo u shi
+a0284	ryo o byo o
+a0285	che she ze kye
+a0286	hye se tu gye
+a0287	fu fu pye wo
+a0288	a bye me ra
+a0289	te kyo shu bya
+a0290	i byu byu byo
+a0291	n byu n byo
+a0292	a fa fo byu
+a0293	dyu o tyu tya
+a0304	dya tye tyo dye
+a0294	dyo fya fyo
+a0295	o ha ha sa ma
+a0305	i ho u
+a0296	ko u he i
+a0306	za ji ja zu
+a0297	ze zo ju je
+a0307	jo n ga
+a0298	so re
+a0308	do i ru gi
+a0299	a ru de su
+a0309	ko to gu ge
+a0300	go gyu gyo ko
+a0310	no ke do gya
+a0301	n zu n ju
+a0311	i ru a ru
+a0302	de su ko to
+a0312	zu gye i ru
+a0303	ju a ru
+a0313	de su zu
+Ta0001	shi n chi n
+Ta0216	ta i sha
+Ta0002	ta n po po
+Ta0217	te n no u
+Ta0003	ko n ne n do
+Ta0218	e n ryo
+Ta0004	me n te
+Ta0219	na n su
+Ta0005	ra pu n tse
+Ta0220	ru po n pu
+Ta0006	ja n ru
+Ta0221	ho n ra i
+Ta0007	e n cho u
+Ta0222	shi n pa i
+Ta0008	o yo so a
+Ta0223	i te mu
+Ta0009	shi n ro
+Ta0224	ya n cha
+Ta0010	ho n myo u
+Ta0225	ne n pyo u
+Ta0011	se n nyu u
+Ta0226	ja n nu
+Ta0012	ko n chu u
+Ta0227	ko pi pe
+Ta0013	su pe sha ru
+Ta0228	ko n nya ku
+Ta0014	a a mo n
+Ta0229	do de sho
+Ta0015	ke n bi kyo u
+Ta0230	shi yo
+Ta0016	shi n ko kyu u
+Ta0231	ma sho
+Ta0017	bu n ka cho u
+Ta0232	na kya
+Ta0018	cha n pi
+Ta0233	o n zu
+Ta0234	he ya
+Ta0019	ni ho n sho ki
+Ta0235	mi n na
+Ta0020	o cha dzu ke ke
+Ta0236	chi kyu u
+Ta0021	ni i po
+Ta0237	n ha mu
+Ta0022	se i ne n
+Ta0238	ga a pi
+Ta0023	u chu u
+Ta0239	jo u kyo u
+Ta0024	i ryo u
+Ta0240	pa n tsu
+Ta0025	ri yu u
+Ta0241	ta i pu
+Ta0026	u n do u
+Ta0242	to pu
+Ta0027	sho u hi
+Ta0243	o pa i
+Ta0028	ya kyu u
+Ta0244	te e ma
+Ta0029	shu cho u
+Ta0245	te n po
+Ta0030	ke n sa
+Ta0246	yo yu u ka fe
+Ta0031	ki so
+Ta0247	e n so u
+Ta0032	shi n ri
+Ta0248	u n yo u
+Ta0033	su be te
+Ta0249	shu u nyu u
+Ta0034	u e no
+Ta0250	kyo nyu u
+Ta0035	e n gi
+Ta0251	ki n mu
+Ta0036	sha ryo u
+Ta0252	u n me i
+Ta0037	fu n no
+Ta0253	fu kyu u
+Ta0038	sa yu u
+Ta0254	gu n ji
+Ta0039	me nyu u
+Ta0255	bi myo u
+Ta0040	da i hyo u
+Ta0256	ro n ri
+Ta0041	bu n ri
+Ta0257	zo n bi
+Ta0042	i n bo u
+Ta0258	shu ryu u
+Ta0043	do ryo ku
+Ta0259	ko u cha
+Ta0044	ka e se
+Ta0260	ho n mo no
+Ta0045	shi n pi
+Ta0261	ki n yu u
+Ta0046	bu n ru i
+Ta0262	gu n ta i
+Ta0047	te cho u su rya
+Ta0263	da kyo u
+Ta0048	sa i chu u
+Ta0264	ju n cho u
+Ta0049	ma fi a a
+Ta0265	ru fa a rya
+Ta0050	ne chu u
+Ta0266	ka i nyu u
+Ta0051	i chi ryu u
+Ta0267	so fa
+Ta0052	ka i he i
+Ta0268	ha chu u
+Ta0053	bu n pu
+Ta0269	ho n ji tsu
+Ta0054	ho ryu u
+Ta0270	za hyo u
+Ta0055	sho cho u
+Ta0271	ta tu u
+Ta0056	me n tsu
+Ta0272	pa n ti
+Ta0057	u n za ri
+Ta0273	ga pe i
+Ta0058	do hyo u
+Ta0274	ka n bi
+Ta0059	e n je ru
+Ta0275	re po te rya
+Ta0060	to u nyo u
+Ta0276	wa he i
+Ta0061	be so u
+Ta0277	ba i kya ku
+Ta0062	a te ne
+Ta0278	he n kya ku
+Ta0063	ho he i
+Ta0279	ka ryu u
+Ta0064	mi she ru
+Ta0280	ju n ni
+Ta0065	po ru she nu
+Ta0281	ru nu ru
+Ta0066	sa n mi
+Ta0282	ru n ba
+Ta0067	ge kyu u
+Ta0283	i n di i
+Ta0068	jo u kya ku
+Ta0284	o bu je
+Ta0069	e n di n gu
+Ta0070	chi n tsu u
+Ta0285	a we i
+Ta0071	ha i we i
+Ta0286	se kya ku
+Ta0072	e e je n
+Ta0287	to ra pyu ta
+Ta0073	o o nu ki
+Ta0288	do u mya ku
+Ta0074	de fo ko n
+Ta0289	pyu u ta
+Ta0075	no ru we e
+Ta0290	pi i tsa
+Ta0076	n gye e fe
+Ta0291	ku to n kye
+Ta0077	bu n pi tsu
+Ta0292	bu n mya ku
+Ta0078	sa myu e ru
+Ta0293	di fe n su
+Ta0079	ri fo o mu
+Ta0294	ti fa ni i
+Ta0080	po pyu ra a
+Ta0295	me n mi tsu
+Ta0081	ga i rya ku
+Ta0296	ke pe ki
+Ta0082	n tu n tyu
+Ta0297	n dyu n she
+Ta0083	n dya ha a
+Ta0298	do we a
+Ta0084	su i mya ku
+Ta0299	ku tu ru fu
+Ta0085	fu ro n ti
+Ta0300	a n che
+Ta0086	pu ro dyu u
+Ta0301	su n n ki
+Ta0087	pu ro je ku
+Ta0302	to n dye
+Ta0088	a i de n
+Ta0303	ti ti n tya
+Ta0089	mo o tsa ru
+Ta0304	to n hyu
+Ta0090	su ta a wo
+Ta0305	o zu n hya
+Ta0091	shi myu re e
+Ta0306	ta a n hye
+Ta0092	yu u fo ni
+Ta0307	a mu n hyo
+Ta0093	po o to fo
+Ta0308	ri o n bye
+Ta0094	mo de ru che
+Ta0309	n ji n pya
+Ta0095	n pye n myu
+Ta0310	n mye n rye
+Ta0096	n fya n fyu
+Ta0311	n fyo n fu
+Ta0097	n ye n wi
+Ta0312	n wo n si
+Ta0098	n zi n du
+Ta0313	n tye n tyo
+Ta0099	n dyo n n
+Ta0314	ni n n ba
+Ta0100	n n bi
+Ta0315	n n za
+Ta0101	n go i ru
+Ta0316	rye i ru hyu
+Ta0317	u i ru hye
+Ta0102	dyu o i ru nya
+Ta0318	i ru nye i ru
+Ta0319	n n ka
+Ta0103	dya i ru bye
+Ta0320	i ru du i
+Ta0321	ru dyu o
+Ta0104	dye i ru dya i
+Ta0322	ru dye i ru dyo
+Ta0105	dyo i ru zi
+Ta0323	i ru ye i
+Ta0324	i ru kye
+Ta0106	n ba i ru myu
+Ta0325	ze i ru mye i
+Ta0326	ru pyu a
+Ta0107	n ra i ru
+Ta0327	pya i ru pyo
+Ta0328	i ru fe a
+Ta0108	fyu i ru fyu i
+Ta0329	ru fya i ru fyo
+Ta0109	fya i ru si i
+Ta0330	ru tyu i ru tya
+Ta0110	fyo i ru tye
+Ta0331	i ru tyo i
+Ta0332	ru tsa a
+Ta0111	si i ru tse i
+Ta0333	ru tsi i ru tso
+Ta0112	tyu i ru wi zu
+Ta0334	i ru wo o ru
+Ta0335	ka ra rye
+Ta0113	tya ka ra hyu u
+Ta0336	ka ra hya ka
+Ta0337	ka ra hye
+Ta0114	tye ka ra nya
+Ta0338	ka ra nye ka ra
+Ta0339	nyo ta i
+Ta0115	tyo ka ra n n
+Ta0340	ka ka ra n n
+Ta0341	ki ka ra she a
+Ta0116	ka ra du ka ra
+Ta0342	dyu o ka ra dya
+Ta0117	ka ra dye ka ra
+Ta0343	dyo ka ra zi
+Ta0118	ka ra gye ka ra
+Ta0344	fu ka ra ye i
+Ta0119	ka ra kye ka
+Ta0345	ra mya n ma
+Ta0346	a ka ra mye
+Ta0120	ka ra myo u ji
+Ta0347	ka ra pya ka ra
+Ta0348	pye
+Ta0121	ka ra fya ka ra
+Ta0349	fyo ka ra si
+Ta0122	ka ra tyu ka ra
+Ta0350	tya ka ra tye
+Ta0123	ka ra tyo ka
+Ta0351	ra che e ku
+Ta0352	ka ra tsa a
+Ta0124	ka ra tse ka ra
+Ta0353	tsi ka ra tso
+Ta0125	ka ra wi zu te
+Ta0354	ryu u te rye
+Ta0126	te ryo u ri te
+Ta0355	hya ka te hye
+Ta0127	te hyo u ka
+Ta0356	te nya te nye
+Ta0128	te nyo ta i
+Ta0357	te n n ka
+Ta0358	te n n ki
+Ta0129	te bye te dyu
+Ta0359	o te dya
+Ta0130	te dye te
+Ta0360	dyo te gye
+Ta0131	te fu te ye
+Ta0361	i te kye
+Ta0132	te myu ze te mya
+Ta0362	n ma a te mye
+Ta0133	te myo u ji te
+Ta0363	pyu a te pya
+Ta0134	te pye te pyo
+Ta0364	te fa a
+Ta0135	te fyu te
+Ta0365	fya te fyo
+Ta0136	te tu te
+Ta0366	tyu te tya
+Ta0137	te tye te tyo
+Ta0367	te che e ku
+Ta0138	te tsa a te
+Ta0368	tsi te tso
+Ta0139	te we i na i
+Ta0369	rye na i hyu u
+Ta0140	na i hya ka
+Ta0370	na i hye na i
+Ta0371	nya
+Ta0141	na i nye na i
+Ta0372	nyo ta i na i
+Ta0373	n n ka
+Ta0142	na i n n
+Ta0374	ki na i bye
+Ta0375	na i du
+Ta0143	na i dyu o na
+Ta0376	i dya na i dye
+Ta0144	na i dyo na i
+Ta0377	zi na i gye
+Ta0145	na i fu na i
+Ta0378	ye i na i mye
+Ta0146	na i pyu a na
+Ta0379	i pya na i pye
+Ta0147	na i pyo na i
+Ta0380	fyu na i fya
+Ta0148	na i fyo na i
+Ta0381	si na i tyu
+Ta0149	na i tya na i
+Ta0382	tye na i tyo
+Ta0150	na i tse na i
+Ta0383	tsi na i tso
+Ta0151	na i wi zu na
+Ta0384	i wo o ru ko
+Ta0385	to hyu u
+Ta0152	ko to hya ka
+Ta0386	ko to hye ko to
+Ta0387	nye
+Ta0153	ko to nyo ta i
+Ta0388	ko to n n ka
+Ta0389	ko to n n ki
+Ta0154	ko to she a ko
+Ta0390	to bye ko to du
+Ta0155	ko to dya ko to
+Ta0391	dye ko to dyo
+Ta0156	ko to zi ko to
+Ta0392	gye ko to fu
+Ta0157	ko to kye ko
+Ta0393	to mya n ma
+Ta0394	a ko to mye
+Ta0158	ko to myo u ji
+Ta0395	ko to n tsu
+Ta0396	ko to pye
+Ta0159	ko to pyo ko to
+Ta0397	fe a ko to fyu
+Ta0160	ko to fya ko to
+Ta0398	fyo ko to si
+Ta0161	ko to tu ko to
+Ta0399	tyu ko to tya
+Ta0162	ko to tye ko
+Ta0400	to tyo ko to
+Ta0401	che e ku
+Ta0163	ko to tse ko to
+Ta0402	tsi ko to tso
+Ta0164	ko to wi zu ko
+Ta0403	to wo o ru
+Ta0165	a n n n
+Ta0404	n n ga
+Ta0166	a n n n
+Ta0167	a n n n
+Ta0405	n n pa
+Ta0168	a a
+Ta0169	ka n n ra
+Ta0170	ka n n rya
+Ta0171	ka n n da
+Ta0172	ka n n dya
+Ta0173	ka n n dzu ha
+Ta0174	a n n n
+Ta0406	n n ta
+Ta0175	a n tya
+Ta0176	a n cha n
+Ta0177	a n tsa
+Ta0178	a ho de ha
+Ta0407	to ho
+Ta0179	jo u ho u
+Ta0408	shi ha i
+Ta0180	ji tsu ha a he
+Ta0409	shi he i
+Ta0181	ho he i
+Ta0410	sha n ha i
+Ta0182	me n ra
+Ta0411	n ga n gi
+Ta0183	ma n o
+Ta0412	ru n gu
+Ta0184	n ge n go
+Ta0413	n za n ji
+Ta0185	n ze n zo
+Ta0414	n gya n gyu
+Ta0186	n gye n gyo
+Ta0415	n ja n je
+Ta0187	n jo n ha i
+Ta0188	gu u gu u
+Ta0416	go u gyu
+Ta0189	ga u gya u
+Ta0417	ju u ja
+Ta0190	ge u ji u
+Ta0418	jo u
+Ta0191	gyu wi u
+Ta0419	za u ze
+Ta0192	gya u zo a
+Ta0420	gu a ga
+Ta0193	gye a ge a
+Ta0421	go a gyu
+Ta0194	gi a gya a
+Ta0422	gye a gi
+Ta0195	gyo a gyo a
+Ta0423	ju a ja
+Ta0196	ja a je a
+Ta0424	jo a
+Ta0197	je a a
+Ta0425	za a ze
+Ta0198	ji a zo e
+Ta0426	gu e ga
+Ta0199	jo e ge e
+Ta0427	go e gyu
+Ta0200	e gya e
+Ta0428	gye e gi
+Ta0201	ha e gyo e
+Ta0429	ju e ja
+Ta0202	e je e
+Ta0430	ji e
+Ta0203	e e
+Ta0431	e zu
+Ta0204	zu e za e
+Ta0432	ze i gu
+Ta0205	za i ga i
+Ta0433	ge i go
+Ta0206	zo i gyu i
+Ta0434	gya i gye
+Ta0207	i gi i
+Ta0435	gyo i ju
+Ta0208	i je i
+Ta0436	ji i jo
+Ta0209	i i
+Ta0437	i zu
+Ta0210	i ze i
+Ta0438	zo o ga
+Ta0211	o ge o
+Ta0439	go o gye
+Ta0212	o gi o
+Ta0440	gyo o ja
+Ta0213	o je o
+Ta0441	ji o jo
+Ta0214	o o
+Ta0442	o za
+Ta0443	kyo u shu u jo
+Ta0444	i ki do o ri
+Ta0445	ki mi ga yo
+Ta0446	tsu ku shi
+Ta0447	tsu ba me
+Ta0448	kyo u wa to u
+Ta0449	ru u ma ni a
+Ta0450	ko u to u bu
+Ta0451	ka a do
+Ta0452	de e ta
+Ta0453	e i se i
+Ta0454	ke chi hi n to
+Ta0455	yu u za a
+Ta0456	ku so
+Ta0457	ka i zo u
+Ta0458	ka na da
+Ta0459	so u ne de shi
+Ta0460	mu u bi i
+Ta0461	yu u gu mi ru
+Ta0462	i ri gu chi
+Ta0463	su pa i ku
+Ta0464	ko n pyu u ta
+Ta0465	chu u i ho u
+Ta0466	bu ku o fu
+Ta0467	shi ro ya ma
+Ta0468	a i te ji ko
+Ta0469	jo u to chi
+Ta0470	mo n da i
+Ta0471	se i to
+Ta0472	tsu dzu i
+Ta0473	te i shi
+Ta0474	kyo u ju
+Ta0475	do u ro
+Ta0476	ge n go
+Ta0477	ka i sa i
+Ta0478	ke i i
+Ta0479	na i yo u
+Ta0480	pi a no
+Ta0481	te i ka jo kyo
+Ta0482	so e ga a ru
+Ta0483	po o zu
+Ta0484	se shu
+Ta0485	o u ja
+Ta0486	shi n wa
+Ta0487	che n ji
+Ta0488	a ru to ru ru
+Ta0489	mu u a
+Ta0490	do a i
+Ta0491	hi ku ku
+Ta0492	ri zu mu no ki
+Ta0493	ru ri e bi na
+Ta0494	te shi ta
+Ta0495	to gi re
+Ta0496	byu u ti i
+Ta0497	su i ga i
+Ta0498	po n su
+Ta0499	a u di
+Ta0500	u i n do
+Ta0501	ti a ra
+Ta0502	ta ha ta e pi
+Ta0503	wi ri a mu
+Ta0504	e fe ku to
+Ta0505	gi kyo ku
+Ta0506	ka ri u mu
+Ta0507	gu ru ji a
+Ta0508	ta pi o ka
+Ta0509	sa i o o te
+Ta0510	ra i o n zu
+Ta0511	ra pu n tse ru
+Ta0512	ka tsu o bu shi
+Ta0513	i ru ho u
+Ta0514	ka ra ho u
+Ta0515	so rya de su
+Ta0516	e e ryu u
+Ta0517	ze hi o mo
+Ta0518	e hya ka
+Ta0519	ha n nya i i
+Ta0520	a nyo ta i
+Ta0521	i i nya n
+Ta0522	i nyo ta i
+Ta0523	e e n go
+Ta0524	o o a n ka
+Ta0525	u i n kyo
+Ta0526	a a n ki
+Ta0527	i i i n kyo
+Ta0528	i i o n gi
+Ta0529	i u n
+Ta0530	o mo e n
+Ta0531	kya n du na i
+Ta0532	ke do e e
+Ta0533	a a dyu o
+Ta0534	ha zu ho do
+Ta0535	u he ya
+Ta0536	e e he ya
+Ta0537	e e ho u
+Ta0538	se i ho u
+Ta0539	i i ha i
+Ta0540	u o ha ra
+Ta0541	mi e ha ri
+Ta0542	a he shi
+Ta0543	i i ye i
+Ta0544	ge e mu ti i
+Ta0545	ko myu mi e
+Ta0546	ka ne ho u
+Ta0547	ko no fu e
+Ta0548	o bo e na i
+Ta0549	so u pu ro
+Ta0550	a pu ho u
+Ta0551	ne e pi za
+Ta0552	e e pyu a
+Ta0553	be n pi kyo u
+Ta0554	o o fe a
+Ta0555	de fo ri yu u
+Ta0556	ma se ho u
+Ta0557	dyu o te ru
+Ta0558	o o che ku
+Ta0559	a a tsi i to
+Ta0560	ve ne tsi a
+Ta0561	i i tsi i to
+Ta0562	o o tsi i to
+Ta0563	i tsu pu ro
+Ta0564	u a wa se
+Ta0565	ha ro wi n
+Ta0566	u rye i rye
+Ta0567	a n n ni
+Ta0568	o nye
+Ta0569	u go a gu
+Ta0570	a go n a
+Ta0571	e gu e go
+Ta0572	i n ga i ge
+Ta0573	o go
+Ta0574	a gyo n a
+Ta0575	a gye e gye
+Ta0576	i gya i gyo
+Ta0577	o gyo
+Ta0578	u ju u jo
+Ta0579	a ju a jo
+Ta0580	e ju e ji
+Ta0581	i ji o n ji
+Ta0582	o ji
+Ta0583	a bye i
+Ta0584	a bye na
+Ta0585	a dyo e dyo
+Ta0586	o dye
+Ta0587	a zi i i zi
+Ta0588	o gye
+Ta0589	a hu
+Ta0590	e ha i i ha i
+Ta0591	o ha i
+Ta0592	u n di
+Ta0593	u pya a pye
+Ta0594	a pyo i
+Ta0595	a pyo ta
+Ta0596	u n fi a fyo
+Ta0597	e fya i fyu
+Ta0598	o fyo
+Ta0599	a fyu n a
+Ta0600	i si
+Ta0601	a tya e tyu
+Ta0602	i tye o tyu
+Ta0603	a tyu na
+Ta0604	a tye i
+Ta0605	a tyo ta
+Ta0606	u za a za
+Ta0607	e ze i zo
+Ta0608	o n za
+Ta0609	a zo gi
+Ta0610	a u ja e za
+Ta0611	e a je i ja
+Ta0612	e o ge o ja
+Ta0613	i u ji u za
+Ta0614	o a jo e ja
+Ta0215	o ze o zo

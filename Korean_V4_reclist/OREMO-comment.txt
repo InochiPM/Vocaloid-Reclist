@@ -1,0 +1,907 @@
+s0001	a (hold)
+s0002	eo (hold)
+s0003	o (hold)
+s0004	u (hold)
+s0005	eu (hold)
+s0006	i (hold)
+s0007	ae (hold)
+s0008	yeo (hold)
+s0009	ya (hold)
+s0010	ye (hold)
+s0011	yo (held)
+s0012	eui (held)
+s0013	wa (held)
+s0014	weo (held)
+s0015	we (held)
+s0016	wi (held)
+a0001	tong hap jin bo dang ui
+a0002	seu ko teul laen deu
+a0003	bu san gwang yeok si
+a0004	heung guk saeng myeong kka ji
+a0005	jung so gi eop cheong
+a0006	dong nip seo neon seo
+a0007	rot de si ne ma
+a0008	po reu tu ga reo
+a0009	gol chit geo ri tto neun
+a0010	hyeon dae kae pi tal
+a0011	meol ti mi di eo
+a0012	su mok deu ra ma
+a0013	syu peo keom pyu teo
+a0014	gyeol hon sik jang eo tteot
+a0015	el li ja be seu
+a0016	che yuk gong won ji geum
+a0017	nam tae pyeong yang ssa um
+a0018	in keu re deo beul
+a0019	dwit bat chim mun hwa jae
+a0020	a me ri ka no
+a0021	jo seon chong dok bu
+a0022	haem beo geo chul bal jeom
+a0023	yeom saek che gae cheu bi
+a0024	i ru eo jyeo ya
+a0025	kkae kkeut hu ku o ka
+a0026	ttu ryeot peu ro pa il
+a0027	ui yak pum cha gyong
+a0028	kaep syul gwi yeom dung i
+a0029	yet jeok tom ni ba kwi
+a0030	in teo pe i seu
+a0031	eu syeo sseu myeon hoet su
+a0032	doel kka yo oen jjok
+a0033	seup gwan nyu yok ju
+a0034	hyung ak keul lo jeu eop
+a0035	ya get da hel sing ki
+a0036	goeng jang hi a swip
+a0037	i nu ya sya jwa pyo
+a0038	op ti meo seu hwol ssin
+a0039	seu po cheu seo ul
+a0040	teuk byeol ja chi si
+a0041	ja dong byeon sok gi
+a0042	ut gyeo yo yeon pyeong gyun
+a0043	wal lyo im sang si heom
+a0044	go ma wo yo u nyeong
+a0045	geo deu nyo ba kkwin
+a0046	gi ppeo yo ppeu tti
+a0047	hae bwa yo hwil che eo
+a0048	yu il mu i kkum kkwo
+a0049	peo mwe eo syol deo gyan
+a0050	gu koe ui won kkyal gyaek
+a0051	jwi eo jja sa eop bi
+a0052	bu di chyeo ha yat teu
+a0053	seu tyu eo teu gwom kkyaen
+a0054	mi ya wa ki i yu
+a0055	na teu ryum hae ya kkwaek
+a0056	ji paeng yu ye eo ya
+a0057	so bi e teu dyam dyael
+a0058	ol la wa seo kkyon dyeop
+a0059	dul leo ssa yeo i yong
+a0060	chwi im sik dyup ttyap nwak
+a0061	wi won ttyaem ttwam geo ui
+a0062	yo won mae u ttwaem dwap
+a0063	sseu yeo a ye i oe
+a0064	dyom ja yu u ju kkyut
+a0065	dwop pi ryo o hu myaep
+a0066	mwat ki u byaeng ttyop bwok
+a0067	ppwaep jyot sswim kwong twing
+a0068	wae nya myeon jwo ya swot
+a0069	ya kwa chwa ryeong ppo ppo
+a0070	hyo yul su cha rye mwik
+a0071	bu tyeo yeon ha poe
+a0072	eok je je ppae nae
+a0073	choe u a o i
+a0074	geu chyo al ko ol
+a0075	bwae yo e bol lu syeon
+a0076	toe won i yeong ae
+a0077	cheong wa dae hwa nwon
+a0078	jo syu a tteo ol lyeo
+a0079	syae do u hae yo nyae
+a0080	seo hae an nwi ang seu
+a0081	ma eum ssi wa u nwae
+a0082	su yong che wa in ttwo
+a0083	rya o ning u yu ttyeo
+a0084	hae oe yeo haeng ye yak
+a0085	ji kyeo bwa ya bo yeo
+a0086	ho geu wa teu joe ak
+a0087	jo yong pil ttwi ya oe
+a0088	hae sseu meu ro ttyu rwa
+a0089	so kkup chin gu soe yak
+a0090	do wa sya wo e seo
+a0091	no ye eu ro yak sok
+a0092	wol lae e ge yeo yu
+a0093	se wo a i wi hae
+a0094	jja ri eu myeo u ri
+a0095	ju wi wi chi yae gi
+a0096	ssui wo eo seo a yo
+a0097	rwae eu myeon ssa u mya
+a0098	rwo yeo ja a ni bya
+a0099	byo eo di o rae myo
+a0100	bwi yu ji sseo ya ppya
+a0101	byu yeo gi jji reu ppyae
+a0102	ppwa mwo i je o neul
+a0103	ppyo wa seo ppwo yu il
+a0104	swa ssya cheo eum ppwi myu
+a0105	ssyae a ya tu pyo ssyeo
+a0106	rwi e i ssyo yo gu
+a0107	sswo wa yo ya gu sswa
+a0108	sswe wi ha jjya jjyae jyae
+a0109	jjyeo eo neu jjwa jjwae jjwo
+a0110	jjwi o ppa ppyu yu sa
+a0111	jjyu oe bu jjyo wi han
+a0112	jjeu a seo yeo reo jyu
+a0113	chwo u su yeong eo chya
+a0114	chyu o reu i geo kyo
+a0115	chyae yeong hwa a mu kyu
+a0116	tya ne yo ye su tyae
+a0117	twa bu teo eo tteon two
+a0118	pya pyae yo so eun de
+a0119	pwa hae oe ye ppeu kyae
+a0120	pwo ye jeong yo sae pwi
+a0121	hyae e da oe gyo hya
+a0122	ui won gwa geo wi heom
+a0123	haeng wi eu ro sseo tyo
+a0124	bo an su won ppa reu
+a0125	neu kkyeo bo yu wol deu
+a0126	dae eung oe mo eol leun
+a0127	bal pyo il lyu yeo wang
+a0128	tta wi ye sul sseo yo
+a0129	swi un gwa yeon ryeo o
+a0130	sil loe yu myeong o peun
+a0131	eo wo deu yu en uik
+a0132	u ul ppa jyeo e seon
+a0133	so won ya dang ssi bal
+a0134	teu wi teo ye oe uin
+a0135	so wi wae nya ha myeon
+a0136	u wa kkam jjak dul jjae
+a0137	dae wi ui oe ael beom
+a0138	eo ryeo wo wo jeu uil
+a0139	gong jja e deu wo deu
+a0140	jeu eum deu reo wa uim
+a0141	gam ssa ssi deu ya ka
+a0142	sil lye yu reop kya uip
+a0143	gwa oe wa sseu myeo uit
+a0144	so oe gu ae tta ra
+a0145	ho e yu ya ra go
+a0146	ui in hu ye wo neo
+a0147	sya in ye u ui wang
+a0148	hwa won ui a ya ya
+a0149	a ssa su eun sang eung
+a0150	eo yu wan jeon ssui wo
+a0151	ha deu we eo ya yu
+a0152	gwa o jjo gae jjang gu
+a0153	seu e ku we i teu
+a0154	bul lyang bae ye su uing
+a0155	jya a jeo ssi ui yeok
+a0156	keu ro seu o beo
+a0157	ya yeong ui yong u ssi
+a0158	eo we i geo aek
+a0159	hwa eum gwa eop mo ssi
+a0160	gwa yuk gwi yo mi
+a0161	se yo eu myeo wi hae
+a0162	u seu un hoe o ri
+a0163	i hu ppa reu ye ppeu
+a0164	mo reu yo sae ssi at
+a0165	na wa tta reu sseo ya
+a0166	cha myeo eu si sa hoe
+a0167	pa wo o reu ssi deu
+a0168	de bwi wa seo cha rye
+a0169	i yu eu mak eo ya
+a0170	a ya u yu wi chi
+a0171	hae ya yo ri bo yeo
+a0172	i oe we i a ye
+a0173	na wa ppa jyeo oe chi
+a0174	yeong hwa e seo do wa
+a0175	cha myeo yae gi pa wo
+a0176	no ye o rae sya wo
+a0177	se wo oe guk cha rye
+a0178	eo ya ttae mun a ya
+a0179	hae ya ssa i a ye
+a0180	na wa wa yo yeong hwa
+a0181	do wa wi ha pa wo
+a0182	no ye ye yak sya wo
+a0183	se wo eu ro cha rye
+a0184	ui yu ri eo ya
+a0185	a ya ssi ti hae ya
+a0186	a ye wi won na wa
+a0187	yeong hwa ye jeong pa wo
+a0188	no ye wa u sya wo
+a0189	se wo wi han ui
+a0190	eo ya e ge a ya
+a0191	hae ya eo seo ui
+a0192	eo ya eu myeon a ya
+a0193	hae ya wi heom ui
+a0194	eo ya ye sul ui
+a0195	ui un dong
+a0196	ui eo di
+a0197	ui o neul
+a0198	ui e i
+a0199	ui eu si
+a0200	ui wi hae
+a0201	ui yae gi
+a0202	l oa
+a0203	l u7
+a0204	l ui
+Ta0001	sin ha neun haeng
+Ta0002	man deun da go
+Ta0003	do ra gam ni da
+Ta0004	bang song guk sa ra nam
+Ta0005	saeng gin da myeon
+Ta0006	jang si gan jeong mal lo
+Ta0007	mun jil leo geu reon ga
+Ta0008	dae han min guk
+Ta0009	hyeon sang geum byeon gyeong
+Ta0010	tong hap jin bo dang
+Ta0011	nun dong ja geon seol
+Ta0012	hae san mul jeon jak
+Ta0013	seong bun ma ji mak
+Ta0014	peu ro geu raem pyeong gang
+Ta0015	jeol la do deul lyeo jul
+Ta0016	da reun de cho neung nyeok
+Ta0017	a nim ni kka si jeom
+Ta0018	i reum nan geu ri go
+Ta0019	il bon sik ba ram jik
+Ta0020	cheon ha mu jeok bak sa
+Ta0021	hang gong mo ham bul li
+Ta0022	kol le seu te rol
+Ta0023	gak gak pyeon jip
+Ta0024	myeong hwak jung bok bu teo
+Ta0025	jin sul i reo nal
+Ta0026	wi hae seon ji geun
+Ta0027	jong sa ja chin jeol
+Ta0028	son mok si gye ge im
+Ta0029	i geot ban nyeon ttae mun
+Ta0030	sa i teu jom cheo reom
+Ta0031	geu geol i mi ji
+Ta0032	gwan sim jal mot
+Ta0033	mo reul tta ra seo
+Ta0034	chul bal am sal mo deon
+Ta0035	pan dan chung gyeok
+Ta0036	neo meo ji jang hak
+Ta0037	i san hwa geu neul
+Ta0038	gun cheong da nin
+Ta0039	deu reu myeo dae tong nyeong
+Ta0040	eo tteo se yo hyeong beop
+Ta0041	gyeol sil mo ri seu gat
+Ta0042	gil geo ri a ri rang
+Ta0043	nae yong mul ma eum sok
+Ta0044	go seum do chi u ri
+Ta0045	eo seo hal su rok muit
+Ta0046	yeo ja yu ga jeung gwon
+Ta0047	kka ji haek jeon jaeng deung
+Ta0048	pi ryo hae ya ga chi
+Ta0049	ro seo i reot i beon
+Ta0050	doen da i got han te
+Ta0051	jun bi jeong do dal leo
+Ta0052	su sip mat chu ju meok
+Ta0053	bon bat jot gat
+Ta0054	eo
+Ta0055	ui
+Ta0056	a
+Ta0057	e
+Ta0058	i
+Ta0059	yeo
+Ta0060	ya
+Ta0061	yo
+Ta0062	o
+Ta0063	wa
+Ta0064	wae
+Ta0065	wi
+Ta0066	yeong hwa seong
+Ta0067	ring
+Ta0068	yang
+Ta0069	yong
+Ta0070	chong
+Ta0071	wang
+Ta0072	jung
+Ta0073	a i a i
+Ta0074	a ppa yo
+Ta0075	se yo
+Ta0076	reo si a
+Ta0077	beon bi
+Ta0078	bae bo
+Ta0079	bi bu
+Ta0080	byeol
+Ta0081	bun
+Ta0082	eop geup
+Ta0083	ip ap
+Ta0084	jeu jeo
+Ta0085	je ja
+Ta0086	i je je
+Ta0087	jyo
+Ta0088	jo
+Ta0089	ju
+Ta0090	jin jja
+Ta0091	jjae
+Ta0092	cha cha
+Ta0093	chae chae
+Ta0094	chi
+Ta0095	choe
+Ta0096	deo deo
+Ta0097	du deu
+Ta0098	dae
+Ta0099	eo di
+Ta0100	do
+Ta0101	du
+Ta0102	doe
+Ta0103	tta ra ttae
+Ta0104	ttae tto
+Ta0105	tto
+Ta0106	geot
+Ta0107	kkeut
+Ta0108	e go geo
+Ta0109	ge geu
+Ta0110	gyo yuk ge
+Ta0111	gi
+Ta0112	gwa
+Ta0113	gu
+Ta0114	kka
+Ta0115	kke
+Ta0116	jeuk
+Ta0117	chaek
+Ta0118	yak
+Ta0119	him ha
+Ta0120	ho hae
+Ta0121	hwa hi
+Ta0122	hu ho
+Ta0123	hoe hwa
+Ta0124	hu
+Ta0125	hoe
+Ta0126	keo keu
+Ta0127	keu ki
+Ta0128	ka
+Ta0129	ke
+Ta0130	ki
+Ta0131	eu myeon ma
+Ta0132	meok mi
+Ta0133	mae u myeo
+Ta0134	mit mu
+Ta0135	mwo mwo
+Ta0136	eum eum
+Ta0137	em
+Ta0138	jom
+Ta0139	kkum
+Ta0140	neun neo
+Ta0141	na na
+Ta0142	ni nae
+Ta0143	nyeon ni
+Ta0144	not
+Ta0145	eun han
+Ta0146	an en
+Ta0147	in on
+Ta0148	yeon gu gwan
+Ta0149	won doen
+Ta0150	pae pyo
+Ta0151	pyeon
+Ta0152	po
+Ta0153	eu reul reo
+Ta0154	reul reu
+Ta0155	ra ra
+Ta0156	re re
+Ta0157	ryeo pi ryo
+Ta0158	u ro ro
+Ta0159	ru
+Ta0160	eul el
+Ta0161	al il
+Ta0162	yeol wol
+Ta0163	ol
+Ta0164	wol
+Ta0165	ae su seu
+Ta0166	seu sa
+Ta0167	se
+Ta0168	so
+Ta0169	su
+Ta0170	sseu sseu
+Ta0171	si
+Ta0172	ssi ssi
+Ta0173	teu teu
+Ta0174	ta ta
+Ta0175	te
+Ta0176	tim
+s0017	a (hold)
+s0018	eo (hold)
+s0019	o (hold)
+s0020	u (hold)
+s0021	eu (hold)
+s0022	i (hold)
+s0023	ae (hold)
+a0205	sa ram ji man
+a0206	ttae mun neun de
+a0207	chin gu si jak
+a0208	ael beom myeon seo
+a0209	no dong jo hap
+a0210	peul la seu tik
+a0211	maek do nal deu
+a0212	ga jeon je pum
+a0213	jung so gi eop
+a0214	kon keu ri teu
+a0215	hae su yok jang
+a0216	dwit gol mok ui
+a0217	tom ni ba kwi
+a0218	eung geup sil
+a0219	yeong hyang nyeok
+a0220	bul ta o reu
+a0221	pa i naen syeol
+a0222	keo ming a ut
+a0223	i geot jeo geot
+a0224	gwan cheuk so
+a0225	jjo cha da ni
+a0226	kkot bat chim
+a0227	eo sem beul li
+a0228	gyo yuk cheong
+a0229	ya get da
+a0230	hu ku o ka
+a0231	tteok bo kki
+a0232	re in bo u
+a0233	u du meo ri
+a0234	doel kka bwa
+a0235	chu rip guk
+a0236	hyeop ju gok
+a0237	po pyul li jeum
+a0238	i ru eo jyeo
+a0239	hwil che eo
+a0240	pae reo di
+a0241	wi won hoe
+a0242	hwak sil hi
+a0243	swim teo kkae kkeut
+a0244	heu pyeol gwi
+a0245	keo pi syop
+a0246	gi kkeo tae ya
+a0247	bi seu kit
+a0248	hae sseu meu ro
+a0249	ma geu ne syum
+a0250	bae teul lo yal
+a0251	kaep chyeo i yong
+a0252	ttwi eo neom
+a0253	mae nyu eol
+a0254	i nu ya sya
+a0255	u seu kkwang
+a0256	u wol ju ui
+a0257	wep tun sseo ya
+a0258	a hop chwa ryeong
+a0259	ui yak pum
+a0260	ssang dung i
+a0261	deot bu tyeo
+a0262	ji paeng yu ye
+a0263	jwa ji u ji
+a0264	kot su yeom
+a0265	hyung bu oe gwa
+a0266	im sang si heom
+a0267	o beu jek teu
+a0268	wal lyo ba kkwin
+a0269	go ma wo yo
+a0270	in teo byu
+a0271	si kyeo ya
+a0272	se gyun gyeong kwae
+a0273	jwo ya ji
+a0274	dae hak gyo
+a0275	tteu geo un
+a0276	ppeu tti a yo
+a0277	gi ppeo yo
+a0278	ap se wo gyan
+a0279	peo mwe eo gyaek
+a0280	cho eum pa gwaek
+a0281	byeol pyo i yu
+a0282	sa eop bi gwok
+a0283	ha yat teu kkyam
+a0284	mi ya wa ki
+a0285	wae nya ha myeon
+a0286	po to syap kkoen
+a0287	chwi im sik kkwom
+a0288	e kwa do reu
+a0289	dul leo ssa yeo
+a0290	na pol le ong
+a0291	gim chi jji gae
+a0292	po jang ma cha
+a0293	yu il se yo
+a0294	ye yak dyaen kkyael
+a0295	yo won mae u
+a0296	ssui wo i oe
+a0297	dyeot hae oe dwam
+a0298	dyon ttyaem dwop
+a0299	dyup ttwap pi ryo
+a0300	ttwaem ttyol ttup
+a0301	ttwot ssi deu myaep
+a0302	mwat myom kkyut
+a0303	mwong yeong eo mwik
+a0304	byaet bwaet syaeng
+a0305	jwaeng u nyong tyot
+a0306	gae choe a swip
+a0307	de bwi a ye
+a0308	nwa ya eo jjae
+a0309	sa toe wa seo
+a0310	ha wa i sswing
+a0311	mu hyo eu si
+a0312	bo yeo yo
+a0313	geu chyo yeo yu
+a0314	gwi yeo wo
+a0315	bi chwo wa yo
+a0316	kkyeo an soe yak
+a0317	hwol ssin ja yu
+a0318	hwa nwon do wa
+a0319	ui roe in
+a0320	yeol sim hi
+a0321	yo yang won
+a0322	e deu wo deu
+a0323	ya kyo u yu
+a0324	ppae at pa wo
+a0325	ju chi ui
+a0326	i tta wi
+a0327	al ko ol
+a0328	ri o seu nyae
+a0329	i yeong ae nwae
+a0330	je jo eop nwi
+a0331	tteo ol lyeo dya
+a0332	ka u bo i
+a0333	ma eum ssi ttyu
+a0334	bu kkeu reo wo
+a0335	rya o ning ttya
+a0336	meo kyu ri rye
+a0337	seung yong cha ttyeo
+a0338	sil lu et rwa
+a0339	ho geu wa teu
+a0340	jo yong pil mya
+a0341	ri aek syeon bya
+a0342	hae wa sseu myeo
+a0343	him gyeo un byo
+a0344	geu ya mal lo
+a0345	no ye o ppa
+a0346	ju wi wa u
+a0347	wol lae e seo
+a0348	sya wo eo tteon
+a0349	bwo eu ro myu
+a0350	rwo a i rwi
+a0351	ppwa geo ui ppwae
+a0352	ppyo a ni ppwo
+a0353	ppya cheo eum ppwi
+a0354	swa ppyae u ri
+a0355	ssya ya oe swo
+a0356	ssyae e ge ppyeo
+a0357	ppyu yeo ja sswa
+a0358	sswo wi hae ssyo
+a0359	sswe eu myeo jyae
+a0360	ssyu a ya ryu
+a0361	jjya tu pyo jyo
+a0362	haeng wi wi chi
+a0363	jjyae eo ya jjyeo
+a0364	jjwa jjwae yeo gi
+a0365	jjwo yeo reo jwi
+a0366	jjwi yae gi jjyu
+a0367	jjeu sseu yeo jyu
+a0368	chyu eu myeon jjyo
+a0369	chya ne yo kyae
+a0370	tya i je kwo
+a0371	tyae a seo chyae
+a0372	twi o rae twa
+a0373	tyu u ju two
+a0374	pya pyae i geo
+a0375	poe yu ji pwo
+a0376	hyae yo gu pwa
+a0377	ui won pwi uik
+a0378	a ppa a mu
+a0379	jeo hui wi ha
+a0380	bo an nyu yok
+a0381	hoe won bo yu
+a0382	dae eung kka ji
+a0383	reo si a uin
+a0384	geu dae yeong hwa
+a0385	dwae yo eol leun
+a0386	il lyu o neul
+a0387	eu se yo uil
+a0388	che yuk kya uim
+a0389	yeo wang o hu
+a0390	myeong ye we i
+a0391	ryeo o e i
+a0392	ro sseo yu en
+a0393	swi un ppa reu
+a0394	gwa yeon so won
+a0395	ya dang ya ji
+a0396	u ul ssa u
+a0397	bi ssa oe bu
+a0398	geu hae tta ra
+a0399	ga jja e da
+a0400	ya saeng eun de
+a0401	hwa myeon u wa
+a0402	so wi yang jjok
+a0403	u a heo wi
+a0404	hwa pye wi won
+a0405	hwa hae ye su
+a0406	a ga ssi uip
+a0407	ui oe u su
+a0408	a jeo ssi uit
+a0409	sil loe wi han
+a0410	geu bun ui ui
+a0411	jeu eum ki u
+a0412	seu wing wa in
+a0413	hwa bo tta reu
+a0414	dul jjae jja ri
+a0415	beu i ye ppeu
+a0416	i eun gwa oe
+a0417	eo eop ka i
+a0418	so oe o reu
+a0419	i wang oe gyo
+a0420	seo yeol ppa jyeo
+a0421	deu reo wa uing
+a0422	gyo oe ye jeong
+a0423	hwa won ssi at
+a0424	sil lye yeo seong
+a0425	seo ye wi heom
+a0426	hwa eum sseo yo
+a0427	yu ya bul lyang
+a0428	hu ye eu ak
+a0429	hyo yong ssa um
+a0430	dat keom ui wang
+a0431	ha deu we eo
+a0432	hwa chang bu eung
+a0433	yu yu oe mo
+a0434	ya yeong ya yu
+a0435	ppang ppang ui a
+a0436	geu ri seu eo
+a0437	gwa o jji reu
+a0438	ui yong ssui wo
+a0439	mu jji reu jya
+a0440	ol li beu yu
+a0441	wa a ye won
+a0442	ui yeok seu e
+a0443	eo we i
+a0444	u ssi gwa si
+a0445	geu jjok geo aek
+a0446	gwa eop mo ssi
+a0447	u ttuk hwa kkeun
+a0448	kkam jjak gwa yuk
+a0449	seo an hae ya
+a0450	gwi yo mi
+a0451	yu won ji
+a0452	u seu un
+a0453	hae yo e seo
+a0454	i hu ssa u
+a0455	bo yeo eo seo
+a0456	eo neu o hu
+a0457	mo reu yo gu
+a0458	na wa wa seo
+a0459	cha myeo eu myeo
+a0460	sa hoe oe bu
+a0461	bu teo ppa reu
+a0462	neo mu ppa jyeo
+a0463	nyu seu ye ppeu
+a0464	se wo wol deu
+a0465	cha rye wa yo
+a0466	cha myeo yeon dae
+a0467	a yo o reu
+a0468	i yu wal lyo
+a0469	eo ya kki wo
+a0470	se yo ye sul
+a0471	a ya a ye
+a0472	hae ya u yu
+a0473	hae yo wan jeon
+a0474	bo yeo oe gyo
+a0475	i oe e seon
+a0476	ja yu wi hae
+a0477	eo neu ppu ri
+a0478	mo reu ssi bal
+a0479	na wa tteo na
+a0480	yeong hwa ssi ti
+a0481	do wa e ge
+a0482	cha myeo wi chi
+a0483	pa wo yu sa
+a0484	ju wi yu ri
+a0485	no ye yu myeong
+a0486	sya wo u nyeong
+a0487	se wo o peun
+a0488	haeng wi eu mak
+a0489	de bwi oe chi
+a0490	cha rye yae gi
+a0491	a yo wi ha
+a0492	eo ya yo ri
+a0493	a ya sseo ya
+a0494	hae ya tto han
+a0495	eu myeo e i
+a0496	bo yeo ye yak
+a0497	na wa wi won
+a0498	yeong hwa ye su
+a0499	pa wo oe guk
+a0500	ju wi e da
+a0501	sya wo ye jeong
+a0502	se wo e seon
+a0503	ui eo di
+a0504	eo ya ppal li
+a0505	a ya eu ro
+a0506	hae ya ssi al
+a0507	ui yu reop
+a0508	eo ya wi han
+a0509	a ya ye sul
+a0510	hae ya ael beom
+a0511	ui un dong
+a0512	ui eu myeon
+a0513	ui o rae
+a0514	ui wi heom
+a0515	ui e seo
+a0516	ui yae gi
+a0517	l oa
+a0518	l u7
+a0519	l ui
+Ta0177	man deun da go
+Ta0178	ba ram ni da
+Ta0179	seon jin guk
+Ta0180	gin jang gam
+Ta0181	jeon mun jeom
+Ta0182	han gyeol ga chi
+Ta0183	geu reon ga
+Ta0184	si sang sik
+Ta0185	jun da neun
+Ta0186	a nal lo geu
+Ta0187	dae hak ga
+Ta0188	gang dong gu
+Ta0189	bu tong nyeong
+Ta0190	min deul le
+Ta0191	song jung gi
+Ta0192	mul leo nan
+Ta0193	deu reu myeon seo
+Ta0194	dan haeng bon
+Ta0195	cheon ha mu jeok
+Ta0196	gong hang
+Ta0197	ra ni kka
+Ta0198	do ra gan
+Ta0199	in sa i teu
+Ta0200	nam jak
+Ta0201	bang sa seong
+Ta0202	peu ro seu teu
+Ta0203	ban jeong bu
+Ta0204	bo deu ge im
+Ta0205	chin hwan gyeong
+Ta0206	hyeong myeong gun
+Ta0207	ji geum da reun
+Ta0208	saeng gak
+Ta0209	wi hae seo
+Ta0210	pyeong hwa hyeon jae
+Ta0211	geol li ga jil
+Ta0212	gwan sim
+Ta0213	jong mal
+Ta0214	mol la do
+Ta0215	teu ri geo
+Ta0216	cho neung nyeok
+Ta0217	nin ten do
+Ta0218	gye san dae
+Ta0219	eu mak sang
+Ta0220	i reum nan
+Ta0221	pan dal lyeok
+Ta0222	chul bal jeom
+Ta0223	bi mil beon ho
+Ta0224	cheong so nyeon gi
+Ta0225	ttae mun si jeol
+Ta0226	sa rang ja sin
+Ta0227	i got geon seol
+Ta0228	po ham ji man
+Ta0229	ja gyeok i reot
+Ta0230	beo reo ji
+Ta0231	i jip teu
+Ta0232	dang hal
+Ta0233	doen da myeon
+Ta0234	meok geo ri
+Ta0235	son mok si gye
+Ta0236	tta reul geu geot
+Ta0237	eo tteo se yo
+Ta0238	ril li seu
+Ta0239	sul ja ri
+Ta0240	nae yong mul
+Ta0241	neo meo seon
+Ta0242	neul geu ni
+Ta0243	an si gil
+Ta0244	byeon sok gi
+Ta0245	jik jeop gat
+Ta0246	sseu re gi jang
+Ta0247	jal mot rok
+Ta0248	am sal mo deon
+Ta0249	bul pyeon u ri
+Ta0250	e ge bun sil
+Ta0251	yeo ja gwon beop
+Ta0252	hae ya kka ji
+Ta0253	pi ryo bu teo
+Ta0254	ro seo ha na
+Ta0255	seum ni da suip
+Ta0256	ho geun bo da
+Ta0257	je dae ro muit
+Ta0258	ko ri a deung
+Ta0259	hoe bok da eum
+Ta0260	cha ja ga jom
+Ta0261	reom mo reu jot
+Ta0262	an nae a nim
+Ta0263	bak sa mat chu
+Ta0264	him jul bat
+Ta0265	eo
+Ta0266	ui
+Ta0267	a
+Ta0268	e
+Ta0269	i
+Ta0270	yeo
+Ta0271	ya
+Ta0272	yo
+Ta0273	o
+Ta0274	wa
+Ta0275	wae
+Ta0276	wi
+Ta0277	yeong hwa saeng
+Ta0278	ring
+Ta0279	yang
+Ta0280	yong
+Ta0281	chong
+Ta0282	wang
+Ta0283	jung
+Ta0284	a i a i
+Ta0285	a ppa yo
+Ta0286	reo si a
+Ta0287	bae bi
+Ta0288	bo
+Ta0289	eop geup
+Ta0290	ip ap
+Ta0291	jeu jeo
+Ta0292	ja
+Ta0293	jyo
+Ta0294	jo
+Ta0295	ju
+Ta0296	jin jja
+Ta0297	jjae
+Ta0298	chae cha
+Ta0299	choe chae
+Ta0300	deo deo
+Ta0301	du deu
+Ta0302	eo di
+Ta0303	du
+Ta0304	doe
+Ta0305	tto ttae
+Ta0306	tto
+Ta0307	kkeut
+Ta0308	gyeong u gwa
+Ta0309	gyo yuk
+Ta0310	gun
+Ta0311	kka ji kke
+Ta0312	jeuk
+Ta0313	chaek
+Ta0314	yak
+Ta0315	hwa ha
+Ta0316	hu hae
+Ta0317	hi
+Ta0318	hwa
+Ta0319	hu
+Ta0320	hoe
+Ta0321	keo keu
+Ta0322	keu ki
+Ta0323	ka
+Ta0324	ke
+Ta0325	ki
+Ta0326	gwal li
+Ta0327	mae u ma
+Ta0328	myeon mi
+Ta0329	mwo myeo
+Ta0330	mu
+Ta0331	mwo
+Ta0332	eum em
+Ta0333	kkum
+Ta0334	nyeon neo
+Ta0335	not nae
+Ta0336	nun
+Ta0337	eun en
+Ta0338	yeon gu gwan
+Ta0339	won won
+Ta0340	doen
+Ta0341	pae pyo
+Ta0342	eu reul reo
+Ta0343	reul reu
+Ta0344	re ra
+Ta0345	ryeo re
+Ta0346	u ro pi ryo
+Ta0347	ro
+Ta0348	ru
+Ta0349	eul eul
+Ta0350	al el
+Ta0351	il yeol
+Ta0352	yeol bol
+Ta0353	ol wol
+Ta0354	wol
+Ta0355	eo su sa
+Ta0356	e su se
+Ta0357	i sang so
+Ta0358	gyo su
+Ta0359	sseu
+Ta0360	si
+Ta0361	ssi ssi
+Ta0362	ta ta
+Ta0363	te te
+Ta0364	tim
+Ta0365	to

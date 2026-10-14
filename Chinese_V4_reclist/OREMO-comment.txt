@@ -1,0 +1,1083 @@
+s0001	a
+s0002	o
+s0003	e
+s0004	zhi
+s0005	zi
+s0006	er
+s0007	ai
+s0008	ei
+s0009	ao
+s0010	ou
+s0011	an
+s0012	en
+s0013	ang
+s0014	eng
+s0038	dong
+s0015	weng
+s0016	yi
+s0017	ya
+s0018	ye
+s0019	yao
+s0020	you
+s0021	yan
+s0022	yin
+s0023	yang
+s0024	ying
+s0025	yong
+s0026	wu
+s0027	wa
+s0028	wo
+s0029	wai
+s0030	wei
+s0031	wan
+s0032	wen
+s0033	wang
+s0034	yu
+s0035	yue
+s0036	yuan
+s0037	yun
+a0001	si lai ying kan
+a0002	yuan re feng fou
+a0003	yun rou fen fang
+a0004	yue rang fa fan
+a0005	yu rao fei fu
+a0006	wai reng kai li
+a0007	er rou gang ga
+a0008	zhi ran niu nin
+a0009	yang re ge kuai
+a0010	wai hou mang ne
+a0011	zi hen ti tie
+a0012	wang he shan shui
+a0013	you ren pang su
+a0014	o heng tiao jin
+a0015	yin hun ke le
+a0016	yan rang da shuai
+a0017	yang hui cai can
+a0018	wu hang bao xi
+a0019	zi chao jiang fa
+a0020	ei ran ce qi
+a0021	o chou zhen cang
+a0022	zi zhai shan qiu
+a0023	o zheng jiu sou
+a0024	yin zhang chao cong
+a0025	zi cong jiao sa
+a0026	ye che ceng hei
+a0027	o can hang hao
+a0028	zhi chong zha hai
+a0029	yin cai zhan hei
+a0030	zi qiu shui qiang
+a0031	ying che reng rou
+a0032	ye zhou ren rang
+a0033	o qi zong ha
+a0034	ya za ran ri
+a0035	zhi zhai hei ci
+a0036	o ji qiu zou
+a0037	a feng feng feng
+a0038	an feng feng feng
+a0039	zhi ba yao ai
+a0040	huang cheng ai ang
+a0041	ci ke e ye
+a0042	ri o ba ye
+a0043	nian wu er zei
+a0044	ai rou qun en
+a0045	wen hen quan ang
+a0046	zhi qi ca ei
+a0047	zi tiao she yang
+a0048	zhi jiu cong ai
+a0049	zi xiang shui yan
+a0050	zhi mian zhe yong
+a0051	zi zao er gong
+a0052	ya dong er ka
+a0053	ya sha er nong
+a0054	zi shan yang diao
+a0055	zhi tai er si
+a0056	zi seng you chou
+a0057	o xiao er xian
+a0058	zhi dai ye fei
+a0059	zi peng yong fou
+a0060	zi biao yang ce
+a0061	zhi xiang er dong
+a0062	zi miao yan ce
+a0063	o yuan pi si
+a0064	zi yuan diao gu
+a0065	er yuan sou kui
+a0066	wai yun mai ka
+a0067	er yun seng gou
+a0068	wai yue la lai
+a0069	wa yun dang lan
+a0070	wang yun tao man
+a0071	weng yue mo nan
+a0072	wu yuan hai nei
+a0073	er yue ben mou
+a0074	wei yue sang mao
+a0075	wang yue dao na
+a0076	o yun cong bai
+a0077	yin yue ta pai
+a0078	zi yu pei sai
+a0079	wei yu men bang
+a0080	wa yu sao bo
+a0081	wen yun chai pan
+a0082	wu yun han se
+a0083	zhi yun feng ding
+a0084	wo yu dou pao
+a0085	o yu zi de
+a0086	zhi yue zhe jing
+a0087	ying yue ceng meng
+a0088	ye yue chou sen
+a0089	er yu qing shu
+a0090	zhi yu zhong qin
+a0091	zi wo nen sa
+a0092	ye yu cou shang
+a0093	o wo ze pou
+a0094	zi wei tou tang
+a0095	yong wo zhang zao
+a0096	er wo cha zhan
+a0097	o wei zou den
+a0098	ya wan zen zang
+a0099	zi wan cang cu
+a0100	o wan sheng zuan
+a0101	ya wai che cheng
+a0102	zhi wo fan zheng
+a0103	o wai zhui gang
+a0104	zhi wei kang zhuo
+a0105	zi wa tuo hao
+a0106	o wa fa gong
+a0107	ya wang fan fei
+a0108	zhi wan fei kong
+a0109	zi wang gai ge
+a0110	o wang kong ka
+a0111	zhi wai fan mai
+a0112	yin wang lai fei
+a0113	zi wen bei li
+a0114	er wan beng ben
+a0115	o wen pou xi
+a0116	zhi wa nang pao
+a0117	zi weng kong na
+a0118	yong wen da dai
+a0119	ying wa bai ban
+a0120	o weng leng pen
+a0121	ya wu fen shang
+a0122	zhi wang pang xi
+a0123	zi wu kong sha
+a0124	yong weng na tai
+a0125	ying wang sai san
+a0126	er wai geng sou
+a0127	o wu mou ji
+a0128	zhi wen jiu fang
+a0129	er wa peng shou
+a0130	zhi weng pao qiu
+a0131	er wang xi keng
+a0132	zhi wu shou chang
+a0133	ying wu tan che
+a0134	yan wang shui hou
+a0135	er wen cou hen
+a0136	yan wen zhang rao
+a0137	er weng sao rong
+a0138	zhi e feng feng
+a0139	er you feng feng
+a0140	lü wei ao en
+a0141	fei yuan e ai
+a0142	ya tou ou er
+a0143	zhi can en er
+a0144	yong tong a a
+a0145	ying cai ai an
+a0146	ye can an ei
+a0147	o zao ao a
+a0148	o tang en a
+a0149	yin tai ei an
+a0150	o dang ang a
+a0151	zhi za ai yang
+a0152	ying te ou ao
+a0153	o sha an er
+a0154	ya song ei er
+a0155	weng chao an a
+a0156	weng zhou a en
+a0157	o sang ai ao
+a0158	zhi shan yi you
+a0159	ying se ang ou
+a0160	o pao you a
+a0161	ya nen an ao
+a0162	zhi sao yang a
+a0163	zi na you ai
+a0164	er zheng ang ei
+a0165	weng cao yi ai
+a0166	zhi pei yang yang
+a0167	er can yang ang
+a0168	zi geng an ou
+a0169	zhi feng ei o
+a0170	zi fou o yong
+a0171	yan weng shui ei
+a0172	er wu ji en
+a0173	zi o gong yan
+a0174	yuan o feng yi
+a0175	you o fei wo
+a0176	e o feng yin
+a0177	zi ou gao yin
+a0178	ai ya feng ya
+a0179	er yang fang ya
+a0180	weng an si e
+a0181	zhi yuan er bin
+a0182	yan yuan ei zai
+a0183	wen yue ai chang
+a0184	er wei ou ben
+a0185	yan wei er fei
+a0186	you wo ou ze
+a0187	eng o ya feng
+a0188	ai yun ye gao
+a0189	zhi en ya fei
+a0190	zi en o fei
+a0191	ai yue ye ge
+a0192	weng ang yin ge
+a0193	ao yue ying ge
+a0194	wang ei ya gao
+a0195	weng yang o gao
+a0196	zhi ou ya gao
+a0197	yao wo ang e
+a0198	yu wo a ao
+a0199	yun wo ai a
+a0200	yun wei ai en
+a0201	wai o er er
+a0202	weng o a ying
+a0203	yuan wo an ang
+a0204	yun wan a ang
+a0205	wai ya er ang
+a0206	wa o ang yan
+a0207	wang o ao ying
+a0208	ye o e an
+a0209	yue wei an ai
+a0210	yu wai er ao
+a0211	zhi yong ei ou
+a0212	eng yuan en wen
+a0213	yu wa er a
+a0214	zhi ying ei ang
+a0215	yang wa e ei
+a0216	eng yun a ou
+a0217	yuan wei ei ao
+a0218	weng yin er an
+a0219	zhi ye ang yong
+a0220	zi ye ao ou
+a0221	eng yue you ang
+a0222	weng yong er ai
+a0223	zhi yan a e
+a0224	zi yan ai e
+a0225	eng yu ai ou
+a0226	zhi yao ao weng
+a0227	zi yao e wen
+a0228	eng wo ye ou
+a0229	weng ye er ei
+a0230	zhi yang an weng
+a0231	zi yang ei ai
+a0232	eng wei yao ou
+a0233	wu yong en e
+a0234	zhi you ye ai
+a0235	zi you ying ang
+a0236	ei yun ai o
+a0237	er o ou e
+a0238	eng wan yang en
+a0239	zhi yi o ei
+a0240	zi yi wu ang
+a0241	ei yue yang ou
+a0242	ang yuan a wang
+a0243	er ya en wang
+a0244	eng wai an wan
+a0245	er yin e wan
+a0246	yuan weng er ou
+a0247	yun o an wei
+a0248	zhi ei wa yao
+a0249	zi ei wan yao
+a0250	ao yuan yao a
+a0251	en yuan yan e
+a0252	zhi an wai yong
+a0253	zi an yu yong
+a0254	ai yuan ye en
+a0255	er yong ou wang
+a0256	zhi ai wo yao
+a0257	zi ai yu you
+a0258	ao yun e yue
+a0259	er ying ao wai
+a0260	en yun yan en
+a0261	wan o yan ao
+a0262	zhi a yu yang
+a0263	zi a yue yong
+a0264	weng o ye ei
+a0265	en yue e yuan
+a0266	zhi ao wa ei
+a0267	zi ao wo yan
+a0268	er yan an yuan
+a0269	ou yun an yin
+a0270	zhi ang wen yao
+a0271	zi ang yu yao
+a0272	ei yu ye an
+a0273	er yao o o
+a0274	zhi er e yun
+a0275	zi er en wai
+a0276	jiong man ye ke
+a0277	bin kan ying mei
+a0278	wang ren liu liang
+a0279	o run lie ling
+a0280	ya ruan lin me
+a0281	zi rui mi xiong
+a0282	yong ruo mian gao
+a0283	ying re niang gong
+a0284	yin re ming gen
+a0285	ye reng xiang kuan
+a0286	wu ri nian nie
+a0287	ya hei she die
+a0288	yong hang ting jie
+a0289	yan he xiao xi
+a0290	yao he ji peng
+a0291	ya chen ji fang
+a0292	ya cang qi gao
+a0293	yin chong ta qiu
+a0294	yong che hei xiu
+a0295	ya qiang ben chou
+a0296	yong zha chai qian
+a0297	ya ji shao hong
+a0298	yong jiang piao qian
+a0299	yin qiu tiao zi
+a0300	zi jiang xian lie
+a0301	yong dian mie bing
+a0302	ying qiang ji heng
+a0303	yong xian tie ping
+a0304	yong pian qie ding
+a0305	die lang you an
+a0306	min long yang ai
+a0307	pie sheng yang yao
+a0308	yin jiang sang er
+a0309	ya xiu zhong an
+a0310	ying diao chen yan
+a0311	ye jian ji er
+a0312	yin xing fei yong
+a0313	yong nie ge a
+a0314	yong lie sou yan
+a0315	yong ze er mie
+a0316	ying zheng ye mou
+a0317	yin zei you qiang
+a0318	yong she yao ceng
+a0319	ying zeng yan bie
+a0320	yin dan yao zhe
+a0321	yong sou yang tiao
+a0322	ya pa yan fei
+a0323	yong ban yan zei
+a0324	ying pei ye te
+a0325	ye ze yan seng
+a0326	yin nong ying liao
+a0327	ya kong yong ga
+a0328	ya gei ying nian
+a0329	ya yuan xiu geng
+a0330	yong yuan tian kun
+a0331	ya yun bie ning
+a0332	yin yuan zhe bing
+a0333	zi yun ping xi
+a0334	yong yun jiang qi
+a0335	ya yue ni lei
+a0336	yin yun zei bian
+a0337	zi yue pian pie
+a0338	yong yue xie xing
+a0339	ying yuan feng qiang
+a0340	ya yu ban bi
+a0341	yong yu xian shai
+a0342	ying yun zhai di
+a0343	o yue qian xia
+a0344	ya wo jian deng
+a0345	yin yu jiong qie
+a0346	yang yue ha song
+a0347	ya wei qiong ci
+a0348	yang yu chao shuan
+a0349	ying yu huai tan
+a0350	ye wo qu fei
+a0351	yong wan ju gei
+a0352	yong wa li miu
+a0353	ying wan miu miao
+a0354	ye wai liang liao
+a0355	ya wen ma xi
+a0356	yong wang ni niu
+a0357	ying wai miu piao
+a0358	ye wa miao dian
+a0359	ya weng gen xi
+a0360	ye wang ban xi
+a0361	ye wen tan ji
+a0362	yan wan pei pi
+a0363	yang wan xiu xi
+a0364	yin wu nang jiang
+a0365	yong wu pa jiao
+a0366	ying wen qiao fan
+a0367	ye weng bai xian
+a0368	ying weng xiu diao
+a0369	ye wu xiang miao
+a0370	yan wa xiao teng
+a0371	ye qi ou ang
+a0372	yin she yi yi
+a0373	ya bao ei yi
+a0374	yin song you you
+a0375	yin bai yao an
+a0376	ying bei yao yao
+a0377	ya man you ei
+a0378	weng qiu ao yao
+a0379	yan chou yao en
+a0380	wai qi an yong
+a0381	weng jiu yao ei
+a0382	yin gong e ying
+a0383	yong kou ye yao
+a0384	yin wai nüe ao
+a0385	yong wai xuan ao
+a0386	ye wan que a
+a0387	ya o fa yang
+a0388	yin o kong ye
+a0389	yong o mai yan
+a0390	ya ya feng yao
+a0391	yang wu fa yun
+a0392	yuan ya feng ying
+a0393	wei yin fen yin
+a0394	yuan yin fou yin
+a0395	yun yong fa yin
+a0396	wan ye ge yin
+a0397	you ya gong ou
+a0398	yuan ying fa ya
+a0399	yun ying fan ya
+a0400	yu ying ge ya
+a0401	wo ying gao ya
+a0402	wan yan gai yin
+a0403	wang an li ya
+a0404	ye yuan yi diu
+a0405	yang yuan you jiu
+a0406	ye yun er luo
+a0407	yang yun you biao
+a0408	you yuan ai jia
+a0409	yi yuan an tu
+a0410	you yun yi zhao
+a0411	yan yun ei zhua
+a0412	yao yuan yang chun
+a0413	you yue er chuang
+a0414	yi yun ao cuo
+a0415	yan yue yi chuan
+a0416	yao yun yang zhuan
+a0417	you yu er shui
+a0418	yan yu a cuo
+a0419	yao yue an zuo
+a0420	yang wo er jun
+a0421	yi yue ei chuo
+a0422	yan wo yang ne
+a0423	yao yu ei ni
+a0424	yang wei yi beng
+a0425	wan yin ya feng
+a0426	wan yong yan fou
+a0427	wa ying ye fou
+a0428	wai yang yin fa
+a0429	weng yao ya fei
+a0430	wai yi yin gao
+a0431	wa yang ya gao
+a0432	zhi ya you yang
+a0433	zi ya yang yan
+a0434	ying o yao ang
+a0435	yan o en ye
+a0436	yue wo yi yang
+a0437	weng ya ai yong
+a0438	zhi yin you yan
+a0439	zi yin yang ye
+a0440	yong ya yao ye
+a0441	ying ya yan yan
+a0442	wa ya ao yong
+a0443	zi yong yi yao
+a0444	ying yin yao you
+a0445	ye ya e you
+a0446	yan ya ou wen
+a0447	yang wai you en
+a0448	zi ying yi yan
+a0449	ye yin yan you
+a0450	yao wei you e
+a0451	yong yin an e
+a0452	yan yin yi e
+a0453	yao wan you ou
+a0454	wu o yi ying
+a0455	ying yong yang e
+a0456	weng ying er yi
+a0457	wu ya yi ye
+a0458	ye yong an en
+a0459	ying ying you yong
+a0460	yi yu an wang
+a0461	yan yong ang o
+a0462	wu ying yao yi
+a0463	yan ying e wang
+a0464	yong yong ao wang
+a0465	ye ying ou wei
+a0466	yue o yang you
+a0467	yu ya ye e
+a0468	yong ying en wan
+a0469	yan ye a wai
+a0470	yao wang you wai
+a0471	ang yun yao ying
+a0472	eng wen yang yong
+a0473	yong ye you wa
+a0474	er ye yi wang
+a0475	ou yuan yong you
+a0476	wo o ying yang
+a0477	wei o yin yong
+a0478	wan ya yong yao
+a0479	weng ya ying an
+a0480	ang yue yao yin
+a0481	en wo yin yin
+a0482	yu yin ying ai
+a0483	wei ya yin ye
+a0484	wang ying yan yang
+a0485	yang weng yi wa
+a0486	you wen yong a
+a0487	en wei ye yan
+a0488	ou yue yan yao
+a0489	wo rong fu gai
+a0490	wei ran gun guang
+a0491	wan ri gua guai
+a0492	weng ru liao lian
+a0493	wa ri kuang mie
+a0494	wen ran ge lu
+a0495	weng hong pin po
+a0496	wei hao pa nuan
+a0497	wa hu sun xin
+a0498	yi rao suan sui
+a0499	er huang du duan
+a0500	wan hua qia zhi
+a0501	ye huan tun za
+a0502	yao rong zu cao
+a0503	zhi huo suo xu
+a0504	ying hao zhu zhun
+a0505	weng rong ce zhou
+a0506	you hong chui sai
+a0507	guai wu qi ang
+a0508	kua weng zeng a
+a0509	tuan wai ji a
+a0510	zun wa zhang yang
+a0511	wang zhong yin fei
+a0512	wai yuan nai miao
+a0513	weng yuan bei min
+a0514	wei yuan zong xun
+a0515	wa yuan qiu kan
+a0516	wang yuan ca ku
+a0517	weng yun niao mu
+a0518	wo yun xiao kang
+a0519	wei yun shen kong
+a0520	wen yuan chong mei
+a0521	wan yun qiao ru
+a0522	wai yu lun nao
+a0523	wa yue shou nong
+a0524	weng yu nu ba
+a0525	wo yue zeng luan
+a0526	wan yue jiao bao
+a0527	wang yu sha bu
+a0528	wan yu tong san
+a0529	wai wo piao pu
+a0530	weng wo dai teng
+a0531	wei wo shun shuang
+a0532	wai wei shua dong
+a0533	wang wo tai zan
+a0534	weng wei dan dian
+a0535	wu yue fei die
+a0536	wai wan chi leng
+a0537	weng wan keng nang
+a0538	yin wo can dun
+a0539	wa wo beng zhuang
+a0540	wang wei chan pen
+a0541	weng wai de te
+a0542	yin wei zha zun
+a0543	yong wei neng cun
+a0544	wa wei peng chen
+a0545	wang wan zhen zhuai
+a0546	weng wa chu chuai
+a0547	yin wan dui lü
+a0548	zi wai cuan nuo
+a0549	ying wo gei tuan
+a0550	wang wai zui jue
+a0551	weng wang tui fang
+a0552	ya wa shuo kang
+a0553	ying wei bao duo
+a0554	weng wen fang kao
+a0555	yin wa kong gai
+a0556	weng weng fen gang
+a0557	yin wen sao tong
+a0558	yin weng mao zong
+a0559	yan wai kong dan
+a0560	wa wa jiang zang
+a0561	shuang wu en you
+a0562	cuo wu ou you
+a0563	ye wei xue weng
+a0564	wai wai beng e
+a0565	wa wai peng ou
+a0566	wang wa sou en
+a0567	wang wang zen ang
+a0568	wai wa zeng en
+a0569	weng wu zao ai
+a0570	wai wang jiu er
+a0571	wu wai song yao
+a0572	wang wen che en
+a0573	wu wa can ai
+a0574	wang weng deng er
+a0575	wai weng te ao
+a0576	wa wang qi ao
+a0577	wen wai sheng ao
+a0578	wu wang cou an
+a0579	wang ye fou wa
+a0580	you wu fei wai
+a0581	wo ya fou wai
+a0582	wan ying fang wo
+a0583	wa ye fa yuan
+a0584	wang yan fan yue
+a0585	wo yong fan yun
+a0586	wei yong fei wen
+a0587	wei ying gong en
+a0588	wai ei gun ying
+a0589	wen yu ou cui
+a0590	wu yu ao gong
+a0591	wu wo e sou
+a0592	wu wei e zeng
+a0593	wu wan er pang
+a0594	wa wen er tao
+a0595	wen wang er qiu
+a0596	wa you yin guang
+a0597	wa wan e e
+a0598	wen wo ao ang
+a0599	wen wei en ao
+a0600	wen wan ang ao
+a0601	wan wo en ou
+a0602	wai wen ou ai
+a0603	wan wei ang an
+a0604	wan wan en ei
+a0605	wu wen ai you
+a0606	wei wei a yi
+a0607	wo wo ei en
+a0608	wan wa en yao
+a0609	wen wen ao ye
+a0610	wu weng ei yin
+a0611	weng yuan ou ying
+a0612	wan wang ang ye
+a0613	wen weng a yong
+a0614	wu wu ai yi
+a0615	weng yun ang ying
+a0616	yue wan ai wen
+a0617	wei wan an wen
+a0618	wang ya a wen
+a0619	wen wu ao e
+a0620	weng yue en yong
+a0621	wo wei yang ao
+a0622	wen o ai weng
+a0623	weng yu e wu
+a0624	yuan wan ou wu
+a0625	yun wa ang wu
+a0626	wo wan ei a
+a0627	wai yin en wu
+a0628	wang yin ao wu
+a0629	wen ya an wu
+a0630	yao wai e weng
+a0631	weng wo you yi
+a0632	yuan wai ou weng
+a0633	yun wang en weng
+a0634	yue wai ang weng
+a0635	wa yin a wu
+a0636	wen yin ei wu
+a0637	yang wang ao wen
+a0638	weng wei yan ou
+a0639	yue wa a weng
+a0640	yu wen ang wang
+a0641	wu yin ai wu
+a0642	weng wan yi yong
+a0643	yuan wang e wo
+a0644	yun weng ou wo
+a0645	yue wang a wo
+a0646	wo wai ao o
+a0647	weng wai a o
+a0648	yuan wen e wa
+a0649	yue wen an wa
+a0650	yu weng en wa
+a0651	wo wa ao wei
+a0652	wei wai ai wang
+a0653	weng wa ai wan
+a0654	yun wu ei weng
+a0655	yu wu you weng
+a0656	wo wang yao yong
+a0657	wei wa yan er
+a0658	wan wen ye ye
+a0659	weng yan ang wan
+a0660	weng wang ai wei
+a0661	yue wu a wan
+a0662	wo wen yi wan
+a0663	wei wang yang yi
+a0664	wan weng ang wa
+a0665	yao wa an wo
+a0666	weng wen a wei
+a0667	eng wa yi wei
+a0668	wo weng e wei
+a0669	wei wen you wang
+a0670	weng weng ao wan
+a0671	eng wang yi wo
+a0672	wo wu e wai
+a0673	wei weng ai wai
+a0674	wan wu yang ying
+a0675	weng wu yi wai
+a0676	wei wu an o
+a0677	wai ying a wa
+a0678	eng weng you wei
+a0679	wai ye yang wen
+a0680	wa yong e yu
+a0681	wang yong ai wa
+a0682	yao wen ei wang
+a0683	eng wu yao weng
+a0684	wai yan yi weng
+a0685	weng yi wen yan
+a0686	wai yao wu ye
+a0687	weng ao yu yan
+a0688	yuan yuan gan ke
+a0689	yun yuan kao kua
+a0690	yue yuan long lia
+a0691	yu yuan ma miu
+a0692	yun yun gei guo
+a0693	yue yun ken nü
+a0694	yu yun lang shi
+a0695	wo yuan shao lüe
+a0696	wan yuan ji juan
+a0697	yue yue guan gui
+a0698	yu yue kou lao
+a0699	yu yu kuo lou
+a0700	xuan yun ou yi
+a0701	qun yu en yi
+a0702	yun yue ou ei
+a0703	yuan yue ang yi
+a0704	yu wan ao yan
+a0705	yuan yu ang yao
+a0706	yue yu yi ei
+a0707	yun wai en ying
+a0708	yu wang ou yong
+a0709	yuan wa ou yu
+a0710	yun wen en yu
+a0711	yu o you wan
+a0712	yun ya ang wei
+a0713	yun yin ou wan
+a0714	yue ya ei wei
+a0715	yue yin ang wai
+a0716	yuan wu yan ei
+a0717	rong yi eng
+a0718	zhong yu eng
+a0719	tong yi eng
+a0720	dong wu eng
+a0722	gong yuan eng
+a0723	zhong wen eng
+a0724	cong wei eng
+a0725	rong yu eng
+a0726	gong yu eng
+a0727	dong yuan eng
+a0728	zhong wu eng
+a0729	dong ya eng
+a0730	gong ren
+a0731	gong yue eng
+a0733	chong wu eng
+a0734	tong wang eng
+a0735	zhong wai eng
+a0736	zhong ya eng
+a0737	song wang eng
+a0738	hong wei eng
+a0739	zhong ren
+a0740	gong wen eng
+a0741	hong wai eng
+a0742	kong yun eng
+a0743	zhong wei eng
+a0744	chong wen eng
+a0745	long wang eng
+a0751	rua lin
+a0753	yi ge eng
+a0755	ying gai eng
+a0757	yi ge eng
+a0772	ke neng eng
+a0773	shi hou eng
+a0758	wo men eng
+a0774	ran er eng
+a0775	di fang eng
+a0759	zhi dao eng
+a0776	yi zhong eng
+a0777	yi zhong ang zang
+a0760	yi zhong ao yun
+a0778	yi zhong o
+a0779	yi zhong weng
+a0761	yi zhong wa wa
+a0780	yi zhong wan quan
+a0781	yi zhong wo men
+a0762	gong yue kong yun
+a0782	wu fa eng
+a0763	ying gai eng
+a0783	wang zhan eng
+a0784	guo nei eng
+a0764	fiao mei you eng
+a0785	yi yang eng
+a0765	xu yao eng
+a0786	yu yan eng
+a0787	yi xie eng
+a0766	yi jing eng
+a0788	shi yong eng
+a0789	gong si eng
+a0767	yuan yin eng
+a0790	bu shi eng lin
+a0768	ruan gui mo
+a0791	eng te
+a0769	fu weng eng
+a0792	wen hua eng
+a0793	tai wan eng
+a0770	zhong guo eng
+a0794	yin yue eng
+a0795	ao yun eng
+a0796	gui mo eng
+a0771	zhong rua
+Ta0001	zhong guo
+Ta0002	ta men
+Ta0003	shen me
+Ta0004	zhe ge
+Ta0005	guo jia
+Ta0006	zi ji
+Ta0007	mei guo
+Ta0008	bu shi
+Ta0009	xian zai
+Ta0010	jiu shi
+Ta0011	fa zhan
+Ta0012	kai shi
+Ta0013	gong si
+Ta0014	zheng fu
+Ta0015	ke neng
+Ta0016	she hui
+Ta0017	ru guo
+Ta0018	zhi dao
+Ta0019	jin xing
+Ta0020	shi jie
+Ta0021	ri ben
+Ta0022	ji hua
+Ta0023	di qu
+Ta0024	jing ji
+Ta0025	huo dong
+Ta0026	dan shi
+Ta0027	li shi
+Ta0028	qing kuang
+Ta0029	zhen de
+Ta0030	zu zhi
+Ta0031	ren min
+Ta0032	qi ta
+Ta0033	xiang gang
+Ta0034	sheng huo
+Ta0035	ni men
+Ta0036	tong shi
+Ta0037	bi xu
+Ta0038	bao kuo
+Ta0039	quan guo
+Ta0040	jue ding
+Ta0041	chu xian
+Ta0042	bei jing
+Ta0043	xi huan
+Ta0044	xue sheng
+Ta0045	ti gong
+Ta0046	na me
+Ta0047	cheng shi
+Ta0048	xiao shi
+Ta0049	jian shi
+Ta0050	zhe xie
+Ta0051	gong zuo
+Ta0052	bu neng
+Ta0053	shi hou
+Ta0054	zheng zhi
+Ta0055	bu hui
+Ta0056	fa sheng
+Ta0057	di fang
+Ta0058	zhe zhong
+Ta0059	fa xian
+Ta0060	ru he
+Ta0061	qi zhong
+Ta0062	qi lai
+Ta0063	ji shu
+Ta0064	bu tong
+Ta0065	zhi shi
+Ta0066	yi ge
+Ta0067	wo men
+Ta0068	wen ti
+Ta0069	yi jing
+Ta0070	xu yao
+Ta0071	ying gai
+Ta0072	zhu yao
+Ta0073	wang zhan
+Ta0074	wei le
+Ta0075	suo yi
+Ta0076	hai you
+Ta0077	yi xie
+Ta0078	zen me
+Ta0079	zhong xin
+Ta0080	ying xiang
+Ta0081	wen hua
+Ta0082	yao qiu
+Ta0083	zuo wei
+Ta0084	yi ding
+Ta0085	guan xi
+Ta0086	jie guo
+Ta0087	zhi jian
+Ta0088	yi qi
+Ta0089	yi zhi
+Ta0090	kan dao
+Ta0091	zui hou
+Ta0092	da xue
+Ta0093	fang shi
+Ta0094	mu qian
+Ta0095	ge ren
+Ta0096	ren shi
+Ta0097	chu li
+Ta0098	ji xia
+Ta0099	mei you
+Ta0100	ju xing
+Ta0101	ke yi
+Ta0102	dian hua
+Ta0103	neng li
+Ta0104	zhe yang
+Ta0105	cheng wei
+Ta0106	ren wei
+Ta0107	shi yong
+Ta0108	kong zhi
+Ta0109	yi ji
+Ta0110	lai zi
+Ta0111	suo you
+Ta0112	qi ye
+Ta0113	zhong yao
+Ta0114	xi wang
+Ta0115	yi ci
+Ta0116	ying guo
+Ta0117	yi jian
+Ta0118	guo ji
+Ta0119	tong guo
+Ta0120	hai shi
+Ta0121	jue de
+Ta0122	bu guo
+Ta0123	zhe li
+Ta0124	zhi chi
+Ta0125	zhi hou
+Ta0126	xue xiao
+Ta0127	zhe shi
+Ta0128	fu jin
+Ta0129	da jia
+Ta0130	jian li
+Ta0131	ji zhe
+Ta0132	jin ru
+Ta0133	ba li
+Ta0134	ti chu
+Ta0135	ji gou
+Ta0136	she ji
+Ta0137	shi qing
+Ta0138	jie shou
+Ta0139	bu duan
+Ta0140	shi fou
+Ta0141	shi dai
+Ta0142	jie jue
+Ta0143	shi ji
+Ta0144	shi xian
+Ta0145	da dao
+Ta0146	xian shi
+Ta0147	jian dan
+Ta0148	shi shi
+Ta0149	feng xian rong yi
+Ta0150	fen xi dan wei
+Ta0151	fan wei bu fen
+Ta0152	fei chang wu fa
+Ta0153	yi yang wei fan
+Ta0154	yi lai mian fei
+Ta0155	yi ban yi yi
+Ta0156	yi shu yi yang
+Ta0157	yi tian yi wei
+Ta0158	you xi yin wei
+Ta0159	yan jiu zhi you
+Ta0160	yin wei bao gao
+Ta0161	geng jia zhao gu
+Ta0162	gen ju you guan
+Ta0163	gao su you ke
+Ta0164	gai bian ren kou
+Ta0165	gan jue li kai
+Ta0166	gu shi kan kan
+Ta0167	guang gao ren lei
+Ta0168	gui ding jiao liu
+Ta0169	lao shi li liang
+Ta0170	liu xia zi liao
+Ta0171	liang ge su lian
+Ta0172	lian xi xi lie
+Ta0173	ling wai ming ling
+Ta0174	lü you ji lu
+Ta0175	mian fei wu lun
+Ta0176	ming bai wang luo
+Ta0177	min zhu fa lü
+Ta0178	mo shi ma ma
+Ta0179	nong ye mi mi
+Ta0180	nan ren fang mian
+Ta0181	nei rong yi ming
+Ta0182	nian dai xiang mu
+Ta0183	nü er yue nan
+Ta0184	ben lai guo nei
+Ta0185	ban fa yi nian
+Ta0186	biao shi que bao
+Ta0187	bian hua ming bai
+Ta0188	bing qie yi ban
+Ta0189	bo shi zhun bei
+Ta0190	ping tai huo bi
+Ta0191	san ge dai biao
+Ta0192	si wang gai bian
+Ta0193	su lian te bie
+Ta0194	sui ran fa bu
+Ta0195	xie yi zhao pian
+Ta0196	xing wei he ping
+Ta0197	xin wen chan pin
+Ta0198	xia wu yan se
+Ta0199	xun lian gao su
+Ta0200	xuan ze jian she
+Ta0201	shou ji jing shen
+Ta0202	shang hai yi shang
+Ta0203	shan dong duo shao
+Ta0204	shu yu lai shuo
+Ta0205	shui ping xiang dang
+Ta0206	shuo ming zui da
+Ta0207	de dao dang di
+Ta0208	dang shi yi dian
+Ta0209	dao zhi yin du
+Ta0210	dong xi fan dui
+Ta0211	dai biao xu duo
+Ta0212	du li jie tou
+Ta0213	dui yu ping tai
+Ta0214	duo shao jin tian
+Ta0215	te bie jia ting
+Ta0216	tou zi chong tu
+Ta0217	tai wan xuan ze
+Ta0218	tiao jian chuang zao
+Ta0219	tian jin min zu
+Ta0220	ting zhi yan jiu
+Ta0221	tu pian yan jiang
+Ta0222	tui dong bi jiao
+Ta0223	zeng jia gen ju
+Ta0224	zao cheng ping jun
+Ta0225	zong tong er qie
+Ta0226	zai yu an quan
+Ta0227	jiang di zheng ce
+Ta0228	jiao yu ren cai
+Ta0229	jia ting zhan zheng
+Ta0230	jun dui ou zhou
+Ta0231	qiang diao ren zhen
+Ta0232	qian wang wen zhang
+Ta0233	qu yu min zhu
+Ta0234	que ding qi che
+Ta0235	cong er wan cheng
+Ta0236	cai yong shi chang
+Ta0237	can yu diao cha
+Ta0238	ci wai sheng chan
+Ta0239	zhang wo zhu yi
+Ta0240	zhao pian wei yi
+Ta0241	zhan zheng dui yu
+Ta0242	zhuang tai zui hao
+Ta0243	zhuan ye shang hai
+Ta0244	chang qi yong hu
+Ta0245	chao guo nei rong
+Ta0246	chong xin sui ran
+Ta0247	chan ye jin ri
+Ta0248	chuang xin
+Ta0249	chuan tong
+Ta0250	he zuo
+Ta0251	hou lai
+Ta0252	hen duo
+Ta0253	hao xiang
+Ta0254	han guo
+Ta0255	hu yu
+Ta0256	hua yuan
+Ta0257	huan ying
+Ta0258	hui yi
+Ta0259	ran er

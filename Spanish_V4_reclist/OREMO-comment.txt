@@ -1,0 +1,374 @@
+s0001	a
+s0002	m
+s0003	n
+s0004	e
+s0005	i
+s0006	o
+s0007	u
+a0001	propio pipa a
+a0002	epopeya para
+a0003	después dupla
+a0004	pudo opción
+a0005	optar chips
+a0006	hippie apnea
+a0007	sobrevive
+a0008	bravo cuba
+a0009	obvio bomba
+a0010	biblia vez vio
+a0011	burbuja buen
+a0012	bla objeto
+a0013	abuela obtuvo
+a0014	clubs ovni
+a0015	abdomen
+a0016	lambda
+a0017	subyace
+a0018	submarino
+a0019	subgrupo
+a0020	subcampeón
+a0021	subproducto
+a0022	institutriz a
+a0023	teatro tuits
+a0024	tiene ritmo
+a0025	fútbol atlas
+a0026	etnia hertz
+a0027	atta postguerra
+a0028	mediocridad he
+a0029	difundiendo
+a0030	dadme madre
+a0031	adjudicó red
+a0032	red red tendrá
+a0033	red la dueño
+a0034	red que arduo
+a0035	red stands dto
+a0036	red ciudad no
+a0037	red por ciudad
+a0038	red ya ciudad
+a0039	red ciudad fue
+a0040	red ciudad che
+a0041	advierte
+a0042	red lleva
+a0043	grand
+a0044	adda
+a0045	adga
+a0046	exquisita que
+a0047	cualquier
+a0048	acción acné
+a0049	anécdota
+a0050	gago según
+a0051	igual blogs
+a0052	rugby guerra guía
+a0053	tengo gusta
+a0054	seguir siglo
+a0055	alguien inglés
+a0056	signo guay gta
+a0057	guió dogma
+a0058	gnomo holdings
+a0059	magdalena
+a0060	chucha hecho ocho
+a0061	dicha china
+a0062	quechua chiitas
+a0063	filósofo jefe
+a0064	affaire sufre
+a0065	flor fiel chefs
+a0066	nafta afgano
+a0067	jacuzzi pozo
+a0068	zona azul hazlo
+a0069	hazte hazme vez
+a0070	vez juzgar paz
+a0071	vez paz nazca
+a0072	vez se paz ya
+a0073	vez paz fue luz
+a0074	vez paz re luz
+a0075	vez paz luz che
+a0076	vez paz luz huir
+a0077	vez lleva
+a0078	azba
+a0079	azda
+a0080	satisfechos la
+a0081	fascismo los
+a0082	dossier los no
+a0083	los rasgos yes
+a0084	los chicos juan
+a0085	los huevos lleva
+a0086	desde desvío
+a0087	página hijo
+a0088	región
+a0089	inmune asumir
+a0090	miedo himno
+a0091	muerte films
+a0092	mtro
+a0093	anunciantes
+a0094	ingenuo nunca
+a0095	inflación nro
+a0096	enlazan bien
+a0097	en yen me con che
+a0098	en por con lleva
+a0099	niña ancho soñé
+a0100	gruñido
+a0101	ñoño conlleva
+a0102	pañuelo
+a0103	cónyuge
+a0104	multiplica el
+a0105	el luis culpa
+a0106	el salvo alza
+a0107	el real no alfa
+a0108	el ya del juan
+a0109	el del lleva
+a0110	armario largo
+a0111	destruir no ir
+a0112	surgir llegar
+a0113	ir ya por re
+a0114	arruina ocurrió
+a0115	si re
+a0116	ella allí pollo
+a0117	lluvia villa su
+a0118	tu llueve
+a0119	hall
+a0120	yo yo rayuela
+a0121	cuyo yin si yo
+a0122	hierro
+a0123	huir
+a0124	veintiséis hoy
+a0125	muy hoy muy hay la
+a0126	hoy caiga muy el
+a0127	hoy pleito muy
+a0128	hoy muy raid hay
+a0129	hoy muy ceiba hay
+a0130	hoy muy hay ya
+a0131	hoy muy hay una
+a0132	hoy muy hay ir
+a0133	hoy muy hay fue
+a0134	hoy muy hay che
+a0135	hoy muy hay juan
+a0136	hoy muy hay lleva
+a0137	nihilismo
+a0138	aun tour deuda
+a0139	auto causa tau
+a0140	auge aula tau
+a0141	tau caucho guau
+a0142	tau me cauce
+a0143	tau ya augusto
+a0144	tau fue guau
+a0145	tau lleva
+a0146	reubicar
+a0147	chihuahua
+a0148	lee una reírse
+a0149	ríe si ir
+a0150	cohecho uno
+a0151	una dúo su una
+a0152	su hindúes
+Ta0001	doble público
+Ta0002	claro color
+Ta0003	plan
+Ta0004	sobre estaba
+Ta0005	crisis éxito
+Ta0006	buen
+Ta0007	cuenta nunca
+Ta0008	gobierno habla
+Ta0009	bien hombre
+Ta0010	dios
+Ta0011	quien
+Ta0012	frente
+Ta0013	fue
+Ta0014	hacia cierto
+Ta0015	precio paz el
+Ta0016	ciudad
+Ta0017	espero estilo
+Ta0018	siempre cómo
+Ta0019	canción único
+Ta0020	nuestro gusta
+Ta0021	ningún centro
+Ta0022	algún falta
+Ta0023	partido
+Ta0024	activa culpa
+Ta0025	también dame
+Ta0026	tan zona tanto
+Ta0027	mar hierro sería
+Ta0028	sexo sector
+Ta0029	embargo hemos
+Ta0030	encima buena
+Ta0031	pensar línea
+Ta0032	ver mi ahora
+Ta0033	les con costa
+Ta0034	tres por sabe
+Ta0035	hindi cierto
+Ta0036	simple madre
+Ta0037	interés tener
+Ta0038	social plaza
+Ta0039	compra
+Ta0040	consejo punto
+Ta0041	historia carta
+Ta0042	última
+Ta0043	tus
+Ta0044	a
+Ta0045	papa parte pro
+Ta0046	pasa personas
+Ta0047	porque tipos
+Ta0048	apoyo tipo
+Ta0049	punto
+Ta0050	había iba no
+Ta0051	obra debe no
+Ta0052	nueva gente
+Ta0053	haber debido
+Ta0054	favor llevó
+Ta0055	nivel vivir
+Ta0056	vivo debe
+Ta0057	ven ver vida
+Ta0058	va
+Ta0059	voy
+Ta0060	creo
+Ta0061	gratis datos
+Ta0062	meta política
+Ta0063	nota estado
+Ta0064	estas temas
+Ta0065	antes latina
+Ta0066	futuro
+Ta0067	tipo espíritu
+Ta0068	además poder
+Ta0069	red además
+Ta0070	edad ha se medio
+Ta0071	puede nos lado
+Ta0072	desde se pedir
+Ta0073	ecuador idea
+Ta0074	todo su comida
+Ta0075	toda duda
+Ta0076	donde cerca da
+Ta0077	donde la día de
+Ta0078	stand eres
+Ta0079	disco mundo
+Ta0080	grand o se
+Ta0081	puede
+Ta0082	da
+Ta0083	o
+Ta0084	acá acto eco
+Ta0085	acción cada qué
+Ta0086	local cama
+Ta0087	canal cara
+Ta0088	casa quiero
+Ta0089	contra corte
+Ta0090	cosas cree
+Ta0091	que
+Ta0092	cuba
+Ta0093	lugar negra
+Ta0094	según llegar
+Ta0095	luego digo haga
+Ta0096	agua algo
+Ta0097	gas
+Ta0098	hecho
+Ta0099	feria tráfico
+Ta0100	fin forma fue
+Ta0101	hindi final
+Ta0102	forma
+Ta0103	cicatriz en
+Ta0104	cicatriz era
+Ta0105	vez he se ácido
+Ta0106	este cinco hace
+Ta0107	iraní zar hizo
+Ta0108	iraní cinco
+Ta0109	cerca diez
+Ta0110	las hizo más hoy
+Ta0111	hasta esa oso
+Ta0112	posible sido
+Ta0113	sus a la sus he no
+Ta0114	sigue misión si
+Ta0115	san mis
+Ta0116	esa
+Ta0117	su
+Ta0118	deja mujer
+Ta0119	gente
+Ta0120	junto
+Ta0121	amigo amor muy
+Ta0122	primer último
+Ta0123	mano tomar ami
+Ta0124	menos camino
+Ta0125	come juan mucho
+Ta0126	mismo miedo
+Ta0127	imagen
+Ta0128	modo
+Ta0129	muy
+Ta0130	tiene tengo han
+Ta0131	tenía encanta
+Ta0132	ningún adiós
+Ta0133	ningún a zona
+Ta0134	nación hará uno
+Ta0135	ningún a se sin
+Ta0136	ningún he se aún
+Ta0137	unidos anti
+Ta0138	pone honor pone
+Ta0139	negro
+Ta0140	nunca
+Ta0141	año su años
+Ta0142	año
+Ta0143	alguien mala le
+Ta0144	tal ir mal me
+Ta0145	sea lo suele
+Ta0146	feliz militar
+Ta0147	local a no hola
+Ta0148	local a se mil
+Ta0149	local he se solo
+Ta0150	legal idea
+Ta0151	otro libro
+Ta0152	popular
+Ta0153	el
+Ta0154	libro
+Ta0155	parece verdad
+Ta0156	mejores grado
+Ta0157	trabajo
+Ta0158	por a la entrar
+Ta0159	por a se por a te
+Ta0160	por he no varios
+Ta0161	problema
+Ta0162	por o no por o se
+Ta0163	por o por
+Ta0164	durante
+Ta0165	arte
+Ta0166	era
+Ta0167	hora
+Ta0168	real recursos
+Ta0169	resto
+Ta0170	razón
+Ta0171	ropa
+Ta0172	llegó hall ha
+Ta0173	he llama
+Ta0174	ya ya
+Ta0175	yo yo
+Ta0176	gracias unión
+Ta0177	tiempo dios
+Ta0178	hacia
+Ta0179	cual fuera
+Ta0180	hay hay
+Ta0181	aunque
+a0153	hall de huir gran ñoño
+a0154	tell la huevo hierro huir
+a0155	grand que hierba hielo
+a0156	stand los vez del hall
+a0157	tell su dos ñame hall mi
+a0158	grand por ñoño tell
+a0159	hall tu voy del gay va
+a0160	tell rey hueso hall fui
+a0161	tau el ñame stand no
+a0162	red ñoño red va
+a0163	edad de edad gran
+a0164	hay ñoño hay hierro
+a0165	hall ñame hall lleva hall ya
+a0166	tell zona tell va hall que
+a0167	hall gran hall hierro hall no
+a0168	hall por hall che hall gente
+a0169	vez ñame vez guerra
+a0170	guau ñoño guau a
+a0171	guau va tau de guau o
+a0172	tau guerra guau ir
+a0173	guau hierro guau por
+a0174	guau re guau una
+a0175	guau huir
+a0176	iraní va
+a0177	grand ñoño grand va
+a0178	grand lleva grand ya
+a0179	stand zona grand me
+a0180	stand del grand fue
+a0181	grand gran grand re
+a0182	grand che iraní del
+a0183	grand gente
+a0184	su gran
+a0185	hindi hielo su hielo
+a0186	hindi huir urdu huevo
